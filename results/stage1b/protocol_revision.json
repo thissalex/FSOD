@@ -1,0 +1,42 @@
+[
+  {
+    "domain": "NEU-DET",
+    "protocol": "v2",
+    "old_query_sha256": "d7e99d661e15c7f3d8848a075a8931a60b3b1259ee33536f30d2bbe8ebf99b05",
+    "query_sha256": "1d497dc06d1ee80df965854a400a41aa0d9f3e9bd7b8b5d700f42a59b0d1b2e5",
+    "query_relative_path": "artifacts/development_v2/NEU-DET/query.json",
+    "excluded_query_files": [
+      "patches_21.jpg",
+      "pitted_surface_292.jpg",
+      "scratches_147.jpg"
+    ],
+    "excluded_query_image_ids": [
+      171,
+      297,
+      1360
+    ],
+    "old_query_images": 288,
+    "query_images": 285,
+    "old_query_instances": 682,
+    "query_instances": 674,
+    "support_pool_changed": false,
+    "support_manifests_changed": false,
+    "rule": "Exclude the query side of confirmed cross-partition same-content groups; do not move into support or resample. No AP-based exclusions."
+  },
+  {
+    "domain": "clipart1k",
+    "protocol": "v2",
+    "old_query_sha256": "01e69ac585540b691278d18c4939f7093bdbf68b5b1024d7c484af93cfbf7d06",
+    "query_sha256": "01e69ac585540b691278d18c4939f7093bdbf68b5b1024d7c484af93cfbf7d06",
+    "query_relative_path": "artifacts/development_v2/clipart1k/query.json",
+    "excluded_query_files": [],
+    "excluded_query_image_ids": [],
+    "old_query_images": 100,
+    "query_images": 100,
+    "old_query_instances": 352,
+    "query_instances": 352,
+    "support_pool_changed": false,
+    "support_manifests_changed": false,
+    "rule": "Exclude the query side of confirmed cross-partition same-content groups; do not move into support or resample. No AP-based exclusions."
+  }
+]

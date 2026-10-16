@@ -1,0 +1,26 @@
+[
+  {
+    "domain": "clipart1k",
+    "seed": 0,
+    "detections": 10000,
+    "max_score_error": 0.0,
+    "tolerance": 2e-05,
+    "passed": true
+  },
+  {
+    "domain": "clipart1k",
+    "seed": 1,
+    "detections": 10000,
+    "max_score_error": 0.0,
+    "tolerance": 2e-05,
+    "passed": true
+  },
+  {
+    "domain": "clipart1k",
+    "seed": 2,
+    "detections": 10000,
+    "max_score_error": 0.0,
+    "tolerance": 2e-05,
+    "passed": true
+  }
+]

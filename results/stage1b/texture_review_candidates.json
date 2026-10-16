@@ -1,0 +1,89 @@
+[
+  {
+    "support_image": {
+      "file_name": "scratches_146.jpg",
+      "id": 655,
+      "width": 200,
+      "height": 200
+    },
+    "query_image": {
+      "file_name": "scratches_147.jpg",
+      "id": 1360,
+      "width": 200,
+      "height": 200
+    },
+    "ncc64": 0.9984714388847351,
+    "offset64": [
+      2,
+      14
+    ],
+    "original_raw_ncc": 0.9989069104194641,
+    "original_highpass_ncc": 0.9856860041618347,
+    "original_match_location": [
+      6,
+      44
+    ],
+    "original_highpass_match_location": [
+      6,
+      44
+    ]
+  },
+  {
+    "support_image": {
+      "file_name": "patches_19.jpg",
+      "id": 599,
+      "width": 200,
+      "height": 200
+    },
+    "query_image": {
+      "file_name": "patches_21.jpg",
+      "id": 171,
+      "width": 200,
+      "height": 200
+    },
+    "ncc64": 0.9821733236312866,
+    "offset64": [
+      4,
+      14
+    ],
+    "original_raw_ncc": 0.9981640577316284,
+    "original_highpass_ncc": 0.9663054943084717,
+    "original_match_location": [
+      14,
+      45
+    ],
+    "original_highpass_match_location": [
+      14,
+      45
+    ]
+  },
+  {
+    "support_image": {
+      "file_name": "pitted_surface_171.jpg",
+      "id": 410,
+      "width": 200,
+      "height": 200
+    },
+    "query_image": {
+      "file_name": "pitted_surface_292.jpg",
+      "id": 297,
+      "width": 200,
+      "height": 200
+    },
+    "ncc64": 0.9504277110099792,
+    "offset64": [
+      7,
+      7
+    ],
+    "original_raw_ncc": 0.9975702166557312,
+    "original_highpass_ncc": 0.9853523373603821,
+    "original_match_location": [
+      23,
+      23
+    ],
+    "original_highpass_match_location": [
+      23,
+      23
+    ]
+  }
+]

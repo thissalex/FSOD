@@ -1,0 +1,19 @@
+{
+  "development_domains": ["clipart1k", "NEU-DET"],
+  "confirmatory_domains": ["ArTaxOr", "DIOR", "FISH", "UODD"],
+  "support_seeds": [0, 1, 2],
+  "stability_seeds": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+  "extra_views": 4,
+  "protection_margin": 0.1,
+  "blur_radii": [2.0, 5.0],
+  "brightness_factors": [0.6, 1.4],
+  "lambda_grid": [0, 1, 10, 100],
+  "mu_grid": [0, 1, 10],
+  "parameter_status": "development_grid_not_selected",
+  "stage_gate": {
+    "minimum_mean_paired_gain_ap_points": 0,
+    "minimum_best_domain_gain_ap_points": 0.5,
+    "maximum_other_domain_loss_ap_points": 0.2,
+    "positive_support_fraction_strictly_above": 0.5
+  }
+}

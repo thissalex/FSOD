@@ -1,0 +1,61 @@
+{
+  "stage": "S1B",
+  "domains": [
+    "NEU-DET",
+    "clipart1k"
+  ],
+  "shot": 5,
+  "development_seeds": [
+    0,
+    1,
+    2
+  ],
+  "reserved_seeds": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "lambda_grid": [
+    0,
+    1,
+    10,
+    100
+  ],
+  "mu_grid": [
+    0,
+    1,
+    10
+  ],
+  "parity_tolerance": 2e-05,
+  "nonidentity_check": {
+    "lambda": 100,
+    "mu": 1,
+    "images_per_domain": 2
+  },
+  "weak_transform_rule": {
+    "all_nonidentity_rE_min": 0.99,
+    "query_cosine_p95_max": 1e-06,
+    "max_similarity_absolute_delta_p95_max": 0.0001
+  },
+  "phash_hamming_max": 16,
+  "phash_review_rule": "All cross-partition 64-bit pHash pairs within distance 6 are visually reviewed. Confirm identical scene/content with resizing, compression, color or crop changes as leakage; similar defect type alone is not leakage. Source sequences remain unknown without metadata.",
+  "proposal_budgets": [
+    100,
+    300,
+    500
+  ],
+  "proposal_min_score": 0.01,
+  "proposal_nms": 1,
+  "proposal_prompt": "coarse_grained_prompt",
+  "proposal_iou": [
+    0.5,
+    0.75
+  ],
+  "resource_cap_gpu_hours": 12,
+  "stop_rule": "Follow supplied S1B plan; no heldout evaluation without approximately +0.5 AP in one development domain and no meaningful loss in the other.",
+  "audit_amendment": "Initial threshold 6 found no pairs; nearest-pair visual review found likely transformed duplicates at distances 8/12, so expand review to <=16 before any protocol decision. No AP used to select exclusions."
+}

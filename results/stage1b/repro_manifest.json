@@ -1,0 +1,593 @@
+{
+  "requirements_sha256": "39a72d28f6beefd79251443007289ecd21da20f7495fd3d784d55a949e7ff592",
+  "plan_sha256": "083da5e9293e77833c155879e40bcc0afa49d63a788c1c566e0f1de1d5a1bd70",
+  "python": "3.10.21",
+  "torch": "2.6.0+cu118",
+  "torch_cuda": "11.8",
+  "cudnn": 90100,
+  "gpu": "index, name, driver_version, memory.total [MiB]\n0, NVIDIA GeForce RTX 4090, 535.183.01, 24564 MiB\n1, NVIDIA GeForce RTX 4090, 535.183.01, 24564 MiB",
+  "native_extension_sha256": {
+    "external/FSOD-VFM/chatrex/upn/ops/MultiScaleDeformableAttention.cpython-310-x86_64-linux-gnu.so": "bf7a1390c767614924f1b6eef8c9536f386b00022eaf64e7dabf1610621fe817",
+    "external/sam2/sam2/_C.so": "0d9fb208ba800d5dfe889a4bc365e196ef891d413e912c6a4736dea63c594840"
+  },
+  "tf32_matmul": false,
+  "float32_matmul_precision": "highest",
+  "cudnn_benchmark": false,
+  "inference_precision": "FP32, no autocast",
+  "xformers_installed": false,
+  "packages": [
+    {
+      "name": "addict",
+      "version": "2.4.0"
+    },
+    {
+      "name": "antlr4-python3-runtime",
+      "version": "4.9.3"
+    },
+    {
+      "name": "anyio",
+      "version": "4.15.1"
+    },
+    {
+      "name": "certifi",
+      "version": "2026.7.22"
+    },
+    {
+      "name": "click",
+      "version": "8.5.0"
+    },
+    {
+      "name": "contourpy",
+      "version": "1.3.2"
+    },
+    {
+      "name": "cycler",
+      "version": "0.12.1"
+    },
+    {
+      "name": "ensemble-boxes",
+      "version": "1.0.9"
+    },
+    {
+      "name": "exceptiongroup",
+      "version": "1.3.1"
+    },
+    {
+      "name": "filelock",
+      "version": "3.32.3"
+    },
+    {
+      "name": "fonttools",
+      "version": "4.65.0"
+    },
+    {
+      "name": "fsspec",
+      "version": "2026.9.0"
+    },
+    {
+      "name": "h11",
+      "version": "0.16.0"
+    },
+    {
+      "name": "hf-xet",
+      "version": "1.6.0"
+    },
+    {
+      "name": "httpcore",
+      "version": "1.0.9"
+    },
+    {
+      "name": "httpx",
+      "version": "0.28.1"
+    },
+    {
+      "name": "huggingface_hub",
+      "version": "1.33.0"
+    },
+    {
+      "name": "hydra-core",
+      "version": "1.3.2"
+    },
+    {
+      "name": "idna",
+      "version": "3.20"
+    },
+    {
+      "name": "iniconfig",
+      "version": "2.1.0"
+    },
+    {
+      "name": "iopath",
+      "version": "0.1.10"
+    },
+    {
+      "name": "Jinja2",
+      "version": "3.1.6"
+    },
+    {
+      "name": "kiwisolver",
+      "version": "1.5.1"
+    },
+    {
+      "name": "llvmlite",
+      "version": "0.49.0"
+    },
+    {
+      "name": "markdown-it-py",
+      "version": "4.2.0"
+    },
+    {
+      "name": "MarkupSafe",
+      "version": "3.0.3"
+    },
+    {
+      "name": "matplotlib",
+      "version": "3.10.9"
+    },
+    {
+      "name": "mdurl",
+      "version": "0.1.2"
+    },
+    {
+      "name": "mmengine",
+      "version": "0.10.7"
+    },
+    {
+      "name": "mpmath",
+      "version": "1.3.0"
+    },
+    {
+      "name": "MultiScaleDeformableAttention",
+      "version": "1.0"
+    },
+    {
+      "name": "networkx",
+      "version": "3.4.2"
+    },
+    {
+      "name": "ninja",
+      "version": "1.11.1.4"
+    },
+    {
+      "name": "numba",
+      "version": "0.67.0"
+    },
+    {
+      "name": "numpy",
+      "version": "1.26.0"
+    },
+    {
+      "name": "nvidia-cublas-cu11",
+      "version": "11.11.3.6"
+    },
+    {
+      "name": "nvidia-cuda-cupti-cu11",
+      "version": "11.8.87"
+    },
+    {
+      "name": "nvidia-cuda-nvrtc-cu11",
+      "version": "11.8.89"
+    },
+    {
+      "name": "nvidia-cuda-runtime-cu11",
+      "version": "11.8.89"
+    },
+    {
+      "name": "nvidia-cudnn-cu11",
+      "version": "9.1.0.70"
+    },
+    {
+      "name": "nvidia-cufft-cu11",
+      "version": "10.9.0.58"
+    },
+    {
+      "name": "nvidia-curand-cu11",
+      "version": "10.3.0.86"
+    },
+    {
+      "name": "nvidia-cusolver-cu11",
+      "version": "11.4.1.48"
+    },
+    {
+      "name": "nvidia-cusparse-cu11",
+      "version": "11.7.5.86"
+    },
+    {
+      "name": "nvidia-nccl-cu11",
+      "version": "2.21.5"
+    },
+    {
+      "name": "nvidia-nvtx-cu11",
+      "version": "11.8.86"
+    },
+    {
+      "name": "omegaconf",
+      "version": "2.3.1"
+    },
+    {
+      "name": "opencv-python",
+      "version": "4.10.0.84"
+    },
+    {
+      "name": "packaging",
+      "version": "26.3"
+    },
+    {
+      "name": "pandas",
+      "version": "2.3.3"
+    },
+    {
+      "name": "pillow",
+      "version": "11.1.0"
+    },
+    {
+      "name": "pip",
+      "version": "26.2.1"
+    },
+    {
+      "name": "platformdirs",
+      "version": "4.11.5"
+    },
+    {
+      "name": "pluggy",
+      "version": "1.5.0"
+    },
+    {
+      "name": "portalocker",
+      "version": "3.2.0"
+    },
+    {
+      "name": "pycocotools",
+      "version": "2.0.10"
+    },
+    {
+      "name": "Pygments",
+      "version": "2.21.0"
+    },
+    {
+      "name": "pyparsing",
+      "version": "3.3.3"
+    },
+    {
+      "name": "pytest",
+      "version": "8.4.2"
+    },
+    {
+      "name": "python-dateutil",
+      "version": "2.9.0.post0"
+    },
+    {
+      "name": "pytz",
+      "version": "2025.2"
+    },
+    {
+      "name": "PyYAML",
+      "version": "6.0.2"
+    },
+    {
+      "name": "rich",
+      "version": "15.0.0"
+    },
+    {
+      "name": "safetensors",
+      "version": "0.8.0"
+    },
+    {
+      "name": "SAM-2",
+      "version": "1.0"
+    },
+    {
+      "name": "scipy",
+      "version": "1.15.3"
+    },
+    {
+      "name": "setuptools",
+      "version": "83.0.0"
+    },
+    {
+      "name": "six",
+      "version": "1.17.0"
+    },
+    {
+      "name": "sympy",
+      "version": "1.13.1"
+    },
+    {
+      "name": "termcolor",
+      "version": "3.3.0"
+    },
+    {
+      "name": "timm",
+      "version": "1.0.15"
+    },
+    {
+      "name": "tomli",
+      "version": "2.4.0"
+    },
+    {
+      "name": "torch",
+      "version": "2.6.0+cu118"
+    },
+    {
+      "name": "torchvision",
+      "version": "0.21.0+cu118"
+    },
+    {
+      "name": "tqdm",
+      "version": "4.67.1"
+    },
+    {
+      "name": "triton",
+      "version": "3.2.0"
+    },
+    {
+      "name": "typing_extensions",
+      "version": "4.16.0"
+    },
+    {
+      "name": "tzdata",
+      "version": "2025.2"
+    },
+    {
+      "name": "wheel",
+      "version": "0.47.0"
+    },
+    {
+      "name": "yapf",
+      "version": "0.43.0"
+    }
+  ],
+  "sources": {
+    "FSOD-VFM": {
+      "commit": "6da781bf02046fe6f70530e1d5483abd9aef6c9c",
+      "verified_git_blobs": 73,
+      "manifest_sha256": "06260bb966a72eb6d67101cba6b215d534bde4d50285239a330404cbd3bc66eb",
+      "local_source_changes": []
+    },
+    "sam2": {
+      "commit": "2b90b9f5ceec907a1c18123530e92e794ad901a4",
+      "verified_git_blobs": 45,
+      "manifest_sha256": "a2c84cbf583a4be958eca43ab03221dcab2d99a63fcae658be0938e22a02807e",
+      "local_source_changes": []
+    },
+    "dinov2": {
+      "commit": "7764ea0f912e53c92e82eb78a2a1631e92725fc8",
+      "tracked_changes": ""
+    }
+  },
+  "source_sha256": {
+    "configs/stage1.json": "c7c555eaf0b551c6771249a951d3d8cc81b6aae60ff91de4158e751ab1d5337c",
+    "configs/stage1b.json": "b73b516107ef70e3acd2877a24434456a100a2ff159aeaa574964e52141849cf",
+    "fsod_experiments/__init__.py": "97466c9901c7cf7cb481eb49ebff5070129afc7759289293ed4455d5ff0d1208",
+    "fsod_experiments/__main__.py": "221326c5301b20ea77b5f205ee05fb462a5e3fb057ee4359c01940ce568387e9",
+    "fsod_experiments/adaptation.py": "273d7ac844756bb8a36857e6b6b1cd128813e60581941733fd0dd8a5766b4b61",
+    "fsod_experiments/cached_detection.py": "472917af9196176eb5489146a8c5b5adc082d3d1bc1936bec78ce42aaaee3186",
+    "fsod_experiments/data.py": "1952f668809fe255f56ba7e661b3c91bfddc410e990b23e83410da929cae34ab",
+    "fsod_experiments/diagnostics.py": "af8d839a702fabe7866f9167af2539ed5d78917f2dc372868a77bd6a9168c151",
+    "fsod_experiments/records.py": "fb8fa23a2364359a574c052af51c0515774a256e068a13278d15f62540dc7c84",
+    "fsod_experiments/upstream_adapter.py": "6aaf55bc2f7acbddf58c890f2fc65496133139a572d4868558a39e96745b0da6",
+    "fsod_experiments/views.py": "4cfa5d51b5d101415cb4a65452bdacd0c118a3418398ea3783e57e5a4c37b18e",
+    "scripts/analyze_context_errors.py": "268306d45c5c9267f61eebb1b5addf918958abe16bb841f2979ce640aa564f3a",
+    "scripts/audit_registration_stage1b.py": "f9601b3f47f32c54c16449e8d40be0975a456895c4951b1094c317e41a12c8a7",
+    "scripts/audit_stage1b.py": "5163bfd8acdce31b0620e195071e9882c2527cfb411e910264e743ef1a714259",
+    "scripts/build_extensions.py": "1f6e62bdfa16b14e85d7f0a03c040b167c9db5ec5949aad85adab4b96bbd2c8f",
+    "scripts/check_nonidentity_stage1b.py": "a47160c81bb95155a2d4f3e14b32ab80aaff728ddb86acd0233927c7aa2e50a6",
+    "scripts/class_margins_stage1b.py": "b2d0cb9dff42058a6e0a5315eb75ea174900ea215b28fcd55fe76b1e1732a375",
+    "scripts/diagnose_stage1b.py": "cddab1589ab4415f2f08ab4a369ab10ce73ecb3fab6f7dbaac0984391755b13a",
+    "scripts/evaluate_prespecified_grid.py": "2b043ee5c10a084c233a9bdb3fca95257cdae42267bb758d44c5975300b11a9c",
+    "scripts/fetch_baseline.py": "96ef8c27007dc7f234edb759a2f68ce0f25e74befa219c840810164b258d4892",
+    "scripts/fetch_component.py": "e00272bf044e577bc1ee758f58e90352dc270869145a97f9d98e0ccf8b0860e4",
+    "scripts/manifest_stage1b.py": "7bfeb1512f07891e83fc809159eff63a4fbbdec83c9af938172e7b56b0e251af",
+    "scripts/pixel_protection.py": "2267035482df14363ef924e293c93b4c6172bf01b465021a8f4a0d4b5de9674f",
+    "scripts/prepare_development.py": "0cdc62e23d2138ff8356ec9ec924537977cc643c801721437e7df524b619d221",
+    "scripts/proposal_budget_stage1b.py": "f7ec0bb2c0981809a750726e75400a43684af9aa2339cf2242933f4c556a38af",
+    "scripts/recompute_controls_stage1b.py": "dbab13434231ba8dc9484237435976f70318d15241abf6da4f84a1aa5ec4c2ab",
+    "scripts/repair_pixel_guard.py": "418ee68931314260732d423d25e6310c009ac5820b641e91c68a000823b3f725",
+    "scripts/replay_stage1b.py": "dda25133eae3c66994dbed8584e88836c91cb1fda963e3b89fdcd11d12f52598",
+    "scripts/review_registration_stage1b.py": "d176096c52f762eb807cc049a2d643cecdff39d20706eaefaf6a833e59ab2649",
+    "scripts/revise_protocol_stage1b.py": "9a9c24f87dd90757c87118611437bef1c11ead21d4d03454d0c2c2b05ffafed0",
+    "scripts/run_baseline.py": "efdc2d0a46967785a840cc7af7171747736d4cbd85641c6b928f5b0e37fbe459",
+    "scripts/run_stage1_cached.py": "8b48dc1e184b686154e56bb1cd4fd40d18f3be218533481a2d1ad287e925b4ad",
+    "scripts/summarize_stage1.py": "0495f0cab9d3eeaefaffed2beef0c35f9457fadf2e8960992a440c319022dca7",
+    "scripts/summarize_stage1b.py": "64a6105f5cc8f143394b53d1eda52b9f804ba464649bc4eb9dc7276cccfa16b2",
+    "scripts/validate_stage1b.py": "68140e4d6628d2373a19f3b5f8f1a9e4977d0e3c273b1bd995bf6ef8d4758bbe",
+    "tests/test_adaptation.py": "8b5040c917488be384839168a6fa664585e50300a573f522eb8e38cffb0bdf56",
+    "tests/test_cached_detection.py": "dd982b9d07de0178ef64ccfaaf18cbf402b43e06ad8bc4c9a2ecdaa53d2cad59",
+    "tests/test_context_iou.py": "8db98f5f86d8f7db9c00527d1eccb525829e0a03f2ba1720350c814108ce5e7e",
+    "tests/test_data.py": "efd78609c18f5cc0115bab03a73e5b4e23e9221bdc688ad16e4462d427c0a1ac",
+    "tests/test_development_partition.py": "1ab0b7d2ec0a2d88772dd24e35258f6d82c9b61e805b4ce2acb1fa9dffe0e6e6",
+    "tests/test_pixel_protection.py": "8ef73a16f228edc40c74d6d9596b8dd86541f3a60b87873d2f1fa0b0eac04f9a",
+    "tests/test_stage1b_diagnostics.py": "bebefb54be0c8b94085b9555a9c363cb87fce8c0378f380c70ea6071c8b32c07",
+    "tests/test_stage1b_protocol.py": "955fa0f70ae8f43b2cc8c3aa50cac96abfe6916b25b102e9456e38c88bf1a32f",
+    "tests/test_upstream_adapter.py": "92f2793e48cc5d8df6629204c479948a5fd0647967bd78d1d91a629c1d91507a",
+    "tests/test_views_records.py": "27542984bc0ff750a718164084a8bf6d508cc3c62dd2d915dc78517a4398c1b9"
+  },
+  "weight_sha256": {
+    "dinov2_vitl14_pretrain.pth": "d5383ea8f4877b2472eb973e0fd72d557c7da5d3611bd527ceeb1d7162cbf428",
+    "sam2.1_hiera_large.pt": "2647878d5dfa5098f2f8649825738a9345572bae2d4350a2468587ece47dd318",
+    "upn_large.pth": "e0714728a94b471d5e3a6794860f300c5ff53afe9035c8c012543f12eaf41864"
+  },
+  "archives_recorded_manifest": "results/resume/archive_manifest.json",
+  "archive_sizes_current": {
+    "ArTaxOr.tar.gz": 11925261350,
+    "DIOR.tar.gz": 7408698846,
+    "FISH.tar.gz": 761948029,
+    "NEU-DET.tar.gz": 25943568,
+    "UODD.tar.gz": 95472511,
+    "clipart1k.tar.gz": 48204952
+  },
+  "archive_digest_note": "SHA256 previously verified in stage1; size checked now; no re-download or new extraction of confirmation domains",
+  "protocol_v1": "results/resume/development_protocol.json",
+  "protocol_v2": "results/stage1b/protocol_revision.json",
+  "graph": {
+    "steps": 30,
+    "alpha": 0.3,
+    "score_decay_exponent": 0.5,
+    "max_proposals": 100,
+    "coco_maxDets": [
+      1,
+      10,
+      100
+    ]
+  },
+  "guard": "original 10% protect band, fixed original SAM mask, extra deterministic interpolation padding selected by exact pixels only",
+  "support_index": [
+    {
+      "domain": "NEU-DET",
+      "seed": 0,
+      "shot": 5,
+      "sha256": "4c5bf7482bda4cefd7022d3d3f279232df7808a050f493d7b96d5a7f0838f9f7",
+      "categories": [
+        "crazing",
+        "inclusion",
+        "patches",
+        "pitted_surface",
+        "rolled-in_scale",
+        "scratches"
+      ]
+    },
+    {
+      "domain": "NEU-DET",
+      "seed": 1,
+      "shot": 5,
+      "sha256": "3f539fd25e77d68cf5a63f4bdce8d147bd709e1885a0921c4f7281b423813904",
+      "categories": [
+        "crazing",
+        "inclusion",
+        "patches",
+        "pitted_surface",
+        "rolled-in_scale",
+        "scratches"
+      ]
+    },
+    {
+      "domain": "NEU-DET",
+      "seed": 2,
+      "shot": 5,
+      "sha256": "8dbaa30283058ee80a20443eb5ddac2ae5da1f9a22b260bc5b0f27a2bf6b6b4e",
+      "categories": [
+        "crazing",
+        "inclusion",
+        "patches",
+        "pitted_surface",
+        "rolled-in_scale",
+        "scratches"
+      ]
+    },
+    {
+      "domain": "NEU-DET",
+      "scope": "5shot seeds0-2",
+      "instance_appearances": 90,
+      "unique_instances": 90,
+      "views_per_appearance": 5
+    },
+    {
+      "domain": "clipart1k",
+      "seed": 0,
+      "shot": 5,
+      "sha256": "7ed2981a6447c3fc9152eecb45cd8d4bed9b556e60c80d63c88921536570475a",
+      "categories": [
+        "aeroplane",
+        "bicycle",
+        "bird",
+        "boat",
+        "bottle",
+        "bus",
+        "car",
+        "cat",
+        "chair",
+        "cow",
+        "diningtable",
+        "dog",
+        "horse",
+        "motorbike",
+        "person",
+        "pottedplant",
+        "sheep",
+        "sofa",
+        "train",
+        "tvmonitor"
+      ]
+    },
+    {
+      "domain": "clipart1k",
+      "seed": 1,
+      "shot": 5,
+      "sha256": "bf3f6fd98cd5afb54e678c1d130aa71064b661378aa73c8d33cd8d7c893ee33e",
+      "categories": [
+        "aeroplane",
+        "bicycle",
+        "bird",
+        "boat",
+        "bottle",
+        "bus",
+        "car",
+        "cat",
+        "chair",
+        "cow",
+        "diningtable",
+        "dog",
+        "horse",
+        "motorbike",
+        "person",
+        "pottedplant",
+        "sheep",
+        "sofa",
+        "train",
+        "tvmonitor"
+      ]
+    },
+    {
+      "domain": "clipart1k",
+      "seed": 2,
+      "shot": 5,
+      "sha256": "5f809e5c358a6d6baed90b7fbc7be28f5a5ed34134102a45934cd22fa43b96d3",
+      "categories": [
+        "aeroplane",
+        "bicycle",
+        "bird",
+        "boat",
+        "bottle",
+        "bus",
+        "car",
+        "cat",
+        "chair",
+        "cow",
+        "diningtable",
+        "dog",
+        "horse",
+        "motorbike",
+        "person",
+        "pottedplant",
+        "sheep",
+        "sofa",
+        "train",
+        "tvmonitor"
+      ]
+    },
+    {
+      "domain": "clipart1k",
+      "scope": "5shot seeds0-2",
+      "instance_appearances": 300,
+      "unique_instances": 243,
+      "views_per_appearance": 5
+    }
+  ],
+  "heldout_audit": {
+    "seeds": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "prior_method_result_seeds": [
+      0,
+      1,
+      2
+    ],
+    "scope": "Checked recorded core/grid result files; no heldout method outputs found. Manifests only were generated; no claim about unrecorded external activity."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "staged_tree": "4c7e9596c504687682d033b3084299b3cdb546b8",
+  "copy": "/tmp/fsod-stage1b-final-clean-znlvorm1",
+  "exit_code": 0,
+  "pytest_exit_code": 0,
+  "pytest": "........................                                                 [100%]\n24 passed in 5.24s",
+  "scope": "isolated staged code tree; unit tests with no external source links; existing cache and verified upstream explicitly supplied only for replay"
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "domain": "NEU-DET",
+    "seed": 0,
+    "detections": 27590,
+    "max_score_error": 0.0,
+    "tolerance": 2e-05,
+    "passed": true
+  },
+  {
+    "domain": "NEU-DET",
+    "seed": 1,
+    "detections": 27590,
+    "max_score_error": 0.0,
+    "tolerance": 2e-05,
+    "passed": true
+  },
+  {
+    "domain": "NEU-DET",
+    "seed": 2,
+    "detections": 27590,
+    "max_score_error": 0.0,
+    "tolerance": 2e-05,
+    "passed": true
+  }
+]

@@ -1,0 +1,112 @@
+{
+  "status": "passed",
+  "pytest": "........................                                                 [100%]\n24 passed in 6.96s",
+  "pip_check": "No broken requirements found.",
+  "grid_rows": 60,
+  "core_controls": 48,
+  "core_recomputed": 24,
+  "v1_snapshot_unchanged": true,
+  "source_and_support_digests_verified": true,
+  "nonidentity_and_aligned_parity": true,
+  "clean_replay": true,
+  "heldout_method_evaluations": 0,
+  "resource": {
+    "accounting": "per-process GPU-assigned wall time where recorded; two-device elapsed-window upper bound includes idle time and CPU work, not kernel-active time",
+    "completed_process_seconds": {
+      "NEU-DET/diagnostic_status.json": 416.0973495009821,
+      "clipart1k/diagnostic_status.json": 159.82708189100958,
+      "proposal_status.json": 22.792952990159392,
+      "controls_status.json": 240.16313691507094,
+      "nonidentity_status.json": 33.63959895912558,
+      "class_margin_status.json": null
+    },
+    "earlier_replaced_run_seconds": {
+      "UPN_initial": 89.42399442498572,
+      "nonidentity_initial": 33.41959425085224,
+      "proposal_v2_first_cached_reanalysis": 20.06614084006287
+    },
+    "initial_diagnostic_aborted": "SIGTERM after near-duplicate discovery; partial output kept in artifacts/stage1b/v1_partial, not used in v2 decision",
+    "two_gpu_elapsed_window_upper_bound_hours": 0.7449986330668131,
+    "cap_hours": 12,
+    "peak_allocated_gib_by_completed_process": {
+      "NEU-DET/diagnostic_status.json": 0.1768040657043457,
+      "clipart1k/diagnostic_status.json": 0.07639646530151367,
+      "proposal_status.json": 0.8174247741699219,
+      "controls_status.json": 0.01407003402709961,
+      "nonidentity_status.json": 4.413819789886475,
+      "class_margin_status.json": null
+    }
+  },
+  "local_log_index": {
+    "stage1b_class_margins.log": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "stage1b_clean_replay.log": {
+      "bytes": 482,
+      "sha256": "8ab4013b4403e6f680fcd9fa0e348501047731ef73b23dd9ea4e058b6384c24e"
+    },
+    "stage1b_controls_v2.log": {
+      "bytes": 1671,
+      "sha256": "6c6c40b9fbba8d10e4aa2b3f84201316381ced80ec26320568767f5fb37329a0"
+    },
+    "stage1b_diagnostics.log": {
+      "bytes": 2113,
+      "sha256": "096fe041f702627d79dd64209710e18c2d282be59199cc143e6fd7506ef4cac2"
+    },
+    "stage1b_diagnostics_clipart_v2.log": {
+      "bytes": 4279,
+      "sha256": "086170fcb2342246d12d7fda411cc18cff5ad081d8a67d0f474218766d5c6eb4"
+    },
+    "stage1b_diagnostics_neu_v2.log": {
+      "bytes": 4578,
+      "sha256": "6afe7b7a53717ac6e0bab4cbbd7d8dac6f5cf67c9617e0aac8f4fd5a47322ae4"
+    },
+    "stage1b_manifest.log": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "stage1b_manifest_final.log": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "stage1b_nonidentity.log": {
+      "bytes": 3427,
+      "sha256": "0c61290fe21c6c533fe1575d487e84955a4fdbc816c6b7685079405dc750224e"
+    },
+    "stage1b_nonidentity_v2.log": {
+      "bytes": 3427,
+      "sha256": "34c7d5c09430abb4a5b8a7bb1c1f00dc28f93b9ca1de0678f08e3674f85c054e"
+    },
+    "stage1b_pip_check.log": {
+      "bytes": 30,
+      "sha256": "9261363b733079a641c2e4cc9bc46ffa1d8336945a87f807b6cf68847dbc9b09"
+    },
+    "stage1b_proposals.log": {
+      "bytes": 1145,
+      "sha256": "b4f31b320985c88357e11ed1d5ffeae22a6c6481b73cca5c35843d3604c77c5b"
+    },
+    "stage1b_proposals_final.log": {
+      "bytes": 1145,
+      "sha256": "f86c063e986d72c51523e493b202f2e9adcd410ed6e83db084c42929cbe974c4"
+    },
+    "stage1b_proposals_v2.log": {
+      "bytes": 1145,
+      "sha256": "f86c063e986d72c51523e493b202f2e9adcd410ed6e83db084c42929cbe974c4"
+    },
+    "stage1b_registration.log": {
+      "bytes": 24,
+      "sha256": "50b40b03e9353e86934a45c17206146eb3c03d4f2c663a74b2579801e7340661"
+    },
+    "stage1b_tests.log": {
+      "bytes": 99,
+      "sha256": "edaf4b664851fdedc6199cc87fca6a1d65b506c848d785f7c343adf6cc4a1ae2"
+    },
+    "stage1b_clean_tests.log": {
+      "bytes": 99,
+      "sha256": "0f3ddaa7457288615aa0f7e28484086e91a9f30c42003684739a8f14555d64f0"
+    }
+  },
+  "clean_tree_pytest": "........................                                                 [100%]\n24 passed in 5.24s",
+  "clean_tree_pytest_exit_code": 0
+}

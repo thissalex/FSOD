@@ -1,0 +1,10 @@
+{
+  "status": "aborted_for_protocol_revision",
+  "config_sha256": "6ca418afbb0d454781a75feeae835dafdda7d252589cc654eac35d36e8511810",
+  "reason": "Cross-partition translated near duplicates confirmed; partial v1 diagnostic run is not used for conclusions",
+  "partial_local_archive": "artifacts/stage1b/v1_partial",
+  "completed_v2_statuses": [
+    "NEU-DET/diagnostic_status.json",
+    "clipart1k/diagnostic_status.json"
+  ]
+}

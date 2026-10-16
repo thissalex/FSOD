@@ -1,0 +1,3174 @@
+[
+  {
+    "domain": "NEU-DET",
+    "threshold_ncc64": 0.95,
+    "pairs": [
+      {
+        "support_image": {
+          "file_name": "scratches_146.jpg",
+          "id": 655,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "scratches_147.jpg",
+          "id": 1360,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9984714388847351,
+        "offset64": [
+          2,
+          14
+        ],
+        "original_raw_ncc": 0.9989069104194641,
+        "original_highpass_ncc": 0.9856860041618347,
+        "original_match_location": [
+          6,
+          44
+        ],
+        "original_highpass_match_location": [
+          6,
+          44
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_194.jpg",
+          "id": 1726,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_285.jpg",
+          "id": 1545,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9821733236312866,
+        "offset64": [
+          16,
+          15
+        ],
+        "original_raw_ncc": 0.9734764099121094,
+        "original_highpass_ncc": 0.0703415721654892,
+        "original_match_location": [
+          50,
+          49
+        ],
+        "original_highpass_match_location": [
+          49,
+          49
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "patches_19.jpg",
+          "id": 599,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "patches_21.jpg",
+          "id": 171,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9821733236312866,
+        "offset64": [
+          4,
+          14
+        ],
+        "original_raw_ncc": 0.9981640577316284,
+        "original_highpass_ncc": 0.9663054943084717,
+        "original_match_location": [
+          14,
+          45
+        ],
+        "original_highpass_match_location": [
+          14,
+          45
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_233.jpg",
+          "id": 1499,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_86.jpg",
+          "id": 1500,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.979577362537384,
+        "offset64": [
+          9,
+          12
+        ],
+        "original_raw_ncc": 0.9702954888343811,
+        "original_highpass_ncc": 0.047516509890556335,
+        "original_match_location": [
+          29,
+          37
+        ],
+        "original_highpass_match_location": [
+          37,
+          41
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_125.jpg",
+          "id": 1321,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_86.jpg",
+          "id": 1500,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9788451194763184,
+        "offset64": [
+          14,
+          11
+        ],
+        "original_raw_ncc": 0.9673607349395752,
+        "original_highpass_ncc": 0.052597012370824814,
+        "original_match_location": [
+          45,
+          35
+        ],
+        "original_highpass_match_location": [
+          45,
+          35
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "inclusion_5.jpg",
+          "id": 563,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_1.jpg",
+          "id": 1158,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9776888489723206,
+        "offset64": [
+          16,
+          0
+        ],
+        "original_raw_ncc": 0.9652886986732483,
+        "original_highpass_ncc": 0.7107603549957275,
+        "original_match_location": [
+          50,
+          1
+        ],
+        "original_highpass_match_location": [
+          50,
+          1
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_85.jpg",
+          "id": 1711,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_86.jpg",
+          "id": 1500,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.977164626121521,
+        "offset64": [
+          16,
+          13
+        ],
+        "original_raw_ncc": 0.9657446146011353,
+        "original_highpass_ncc": 0.06860950589179993,
+        "original_match_location": [
+          49,
+          41
+        ],
+        "original_highpass_match_location": [
+          21,
+          12
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_44.jpg",
+          "id": 421,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_86.jpg",
+          "id": 1500,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9768384099006653,
+        "offset64": [
+          15,
+          14
+        ],
+        "original_raw_ncc": 0.9581996202468872,
+        "original_highpass_ncc": 0.06092197448015213,
+        "original_match_location": [
+          45,
+          46
+        ],
+        "original_highpass_match_location": [
+          4,
+          37
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "scratches_116.jpg",
+          "id": 100,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "scratches_145.jpg",
+          "id": 864,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9758657813072205,
+        "offset64": [
+          11,
+          0
+        ],
+        "original_raw_ncc": 0.9680558443069458,
+        "original_highpass_ncc": 0.9075860381126404,
+        "original_match_location": [
+          34,
+          1
+        ],
+        "original_highpass_match_location": [
+          34,
+          1
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "scratches_143.jpg",
+          "id": 1359,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "scratches_112.jpg",
+          "id": 1584,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9754135608673096,
+        "offset64": [
+          15,
+          0
+        ],
+        "original_raw_ncc": 0.9691515564918518,
+        "original_highpass_ncc": 0.7217538952827454,
+        "original_match_location": [
+          47,
+          0
+        ],
+        "original_highpass_match_location": [
+          47,
+          0
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_299.jpg",
+          "id": 625,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_285.jpg",
+          "id": 1545,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9752541780471802,
+        "offset64": [
+          11,
+          14
+        ],
+        "original_raw_ncc": 0.966523289680481,
+        "original_highpass_ncc": 0.06164729222655296,
+        "original_match_location": [
+          35,
+          45
+        ],
+        "original_highpass_match_location": [
+          35,
+          45
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_252.jpg",
+          "id": 907,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_285.jpg",
+          "id": 1545,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9751315116882324,
+        "offset64": [
+          16,
+          5
+        ],
+        "original_raw_ncc": 0.9622181057929993,
+        "original_highpass_ncc": 0.049165379256010056,
+        "original_match_location": [
+          50,
+          17
+        ],
+        "original_highpass_match_location": [
+          35,
+          5
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_281.jpg",
+          "id": 1323,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_86.jpg",
+          "id": 1500,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.974491536617279,
+        "offset64": [
+          15,
+          16
+        ],
+        "original_raw_ncc": 0.9632911682128906,
+        "original_highpass_ncc": 0.05238189920783043,
+        "original_match_location": [
+          46,
+          50
+        ],
+        "original_highpass_match_location": [
+          19,
+          21
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_153.jpg",
+          "id": 1190,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_86.jpg",
+          "id": 1500,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9708070755004883,
+        "offset64": [
+          15,
+          16
+        ],
+        "original_raw_ncc": 0.9598166942596436,
+        "original_highpass_ncc": 0.052335742861032486,
+        "original_match_location": [
+          46,
+          50
+        ],
+        "original_highpass_match_location": [
+          29,
+          28
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "inclusion_239.jpg",
+          "id": 380,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_86.jpg",
+          "id": 1500,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9699570536613464,
+        "offset64": [
+          0,
+          16
+        ],
+        "original_raw_ncc": 0.9604594707489014,
+        "original_highpass_ncc": 0.05187128484249115,
+        "original_match_location": [
+          5,
+          50
+        ],
+        "original_highpass_match_location": [
+          50,
+          25
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_87.jpg",
+          "id": 1093,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_68.jpg",
+          "id": 1529,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9694643020629883,
+        "offset64": [
+          16,
+          2
+        ],
+        "original_raw_ncc": 0.9485741257667542,
+        "original_highpass_ncc": 0.0578654520213604,
+        "original_match_location": [
+          49,
+          0
+        ],
+        "original_highpass_match_location": [
+          50,
+          38
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_129.jpg",
+          "id": 64,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_285.jpg",
+          "id": 1545,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9690368175506592,
+        "offset64": [
+          16,
+          1
+        ],
+        "original_raw_ncc": 0.9588443040847778,
+        "original_highpass_ncc": 0.04609176144003868,
+        "original_match_location": [
+          49,
+          5
+        ],
+        "original_highpass_match_location": [
+          50,
+          34
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_129.jpg",
+          "id": 64,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_257.jpg",
+          "id": 1532,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9675676822662354,
+        "offset64": [
+          6,
+          16
+        ],
+        "original_raw_ncc": 0.9552251100540161,
+        "original_highpass_ncc": 0.048165321350097656,
+        "original_match_location": [
+          18,
+          50
+        ],
+        "original_highpass_match_location": [
+          46,
+          16
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "scratches_298.jpg",
+          "id": 1004,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_86.jpg",
+          "id": 1500,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9668430685997009,
+        "offset64": [
+          0,
+          14
+        ],
+        "original_raw_ncc": 0.956580638885498,
+        "original_highpass_ncc": 0.06599929928779602,
+        "original_match_location": [
+          0,
+          43
+        ],
+        "original_highpass_match_location": [
+          4,
+          12
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_193.jpg",
+          "id": 728,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_257.jpg",
+          "id": 1532,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.965272068977356,
+        "offset64": [
+          16,
+          4
+        ],
+        "original_raw_ncc": 0.9521809220314026,
+        "original_highpass_ncc": 0.05256521329283714,
+        "original_match_location": [
+          50,
+          15
+        ],
+        "original_highpass_match_location": [
+          1,
+          27
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_153.jpg",
+          "id": 1190,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_298.jpg",
+          "id": 1448,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9651714563369751,
+        "offset64": [
+          14,
+          16
+        ],
+        "original_raw_ncc": 0.9463905096054077,
+        "original_highpass_ncc": 0.05704580992460251,
+        "original_match_location": [
+          43,
+          49
+        ],
+        "original_highpass_match_location": [
+          12,
+          15
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_1.jpg",
+          "id": 182,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_4.jpg",
+          "id": 520,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9650676846504211,
+        "offset64": [
+          15,
+          12
+        ],
+        "original_raw_ncc": 0.9456695318222046,
+        "original_highpass_ncc": 0.06076920032501221,
+        "original_match_location": [
+          46,
+          38
+        ],
+        "original_highpass_match_location": [
+          22,
+          1
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_81.jpg",
+          "id": 1393,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_249.jpg",
+          "id": 943,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9647032618522644,
+        "offset64": [
+          7,
+          0
+        ],
+        "original_raw_ncc": 0.9476185441017151,
+        "original_highpass_ncc": 0.06734460592269897,
+        "original_match_location": [
+          21,
+          0
+        ],
+        "original_highpass_match_location": [
+          47,
+          14
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_81.jpg",
+          "id": 1393,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_106.jpg",
+          "id": 1538,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9643522500991821,
+        "offset64": [
+          2,
+          7
+        ],
+        "original_raw_ncc": 0.9370929598808289,
+        "original_highpass_ncc": 0.06734662503004074,
+        "original_match_location": [
+          4,
+          22
+        ],
+        "original_highpass_match_location": [
+          18,
+          47
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "inclusion_241.jpg",
+          "id": 577,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_285.jpg",
+          "id": 1545,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9643380045890808,
+        "offset64": [
+          12,
+          0
+        ],
+        "original_raw_ncc": 0.9472373127937317,
+        "original_highpass_ncc": 0.05017910152673721,
+        "original_match_location": [
+          39,
+          0
+        ],
+        "original_highpass_match_location": [
+          15,
+          42
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_35.jpg",
+          "id": 837,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_285.jpg",
+          "id": 1545,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9642284512519836,
+        "offset64": [
+          16,
+          9
+        ],
+        "original_raw_ncc": 0.9501336812973022,
+        "original_highpass_ncc": 0.05769059807062149,
+        "original_match_location": [
+          50,
+          44
+        ],
+        "original_highpass_match_location": [
+          21,
+          48
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_28.jpg",
+          "id": 622,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_285.jpg",
+          "id": 1545,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9636324048042297,
+        "offset64": [
+          16,
+          16
+        ],
+        "original_raw_ncc": 0.9481574892997742,
+        "original_highpass_ncc": 0.05336037650704384,
+        "original_match_location": [
+          50,
+          49
+        ],
+        "original_highpass_match_location": [
+          44,
+          22
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_193.jpg",
+          "id": 728,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_62.jpg",
+          "id": 1720,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9629374742507935,
+        "offset64": [
+          12,
+          0
+        ],
+        "original_raw_ncc": 0.942014753818512,
+        "original_highpass_ncc": 0.04958217963576317,
+        "original_match_location": [
+          42,
+          6
+        ],
+        "original_highpass_match_location": [
+          42,
+          6
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_35.jpg",
+          "id": 837,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_257.jpg",
+          "id": 1532,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9620457887649536,
+        "offset64": [
+          16,
+          16
+        ],
+        "original_raw_ncc": 0.9467650651931763,
+        "original_highpass_ncc": 0.04787113517522812,
+        "original_match_location": [
+          50,
+          50
+        ],
+        "original_highpass_match_location": [
+          25,
+          50
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_66.jpg",
+          "id": 422,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_124.jpg",
+          "id": 1173,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9617186188697815,
+        "offset64": [
+          11,
+          15
+        ],
+        "original_raw_ncc": 0.9294700622558594,
+        "original_highpass_ncc": 0.060148417949676514,
+        "original_match_location": [
+          34,
+          49
+        ],
+        "original_highpass_match_location": [
+          36,
+          6
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_151.jpg",
+          "id": 826,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_62.jpg",
+          "id": 1720,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9613176584243774,
+        "offset64": [
+          13,
+          16
+        ],
+        "original_raw_ncc": 0.9366690516471863,
+        "original_highpass_ncc": 0.06096801534295082,
+        "original_match_location": [
+          46,
+          50
+        ],
+        "original_highpass_match_location": [
+          20,
+          26
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_252.jpg",
+          "id": 907,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_249.jpg",
+          "id": 943,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9607449173927307,
+        "offset64": [
+          16,
+          15
+        ],
+        "original_raw_ncc": 0.9456017017364502,
+        "original_highpass_ncc": 0.047211576253175735,
+        "original_match_location": [
+          50,
+          46
+        ],
+        "original_highpass_match_location": [
+          28,
+          28
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_199.jpg",
+          "id": 1392,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_285.jpg",
+          "id": 1545,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9605777263641357,
+        "offset64": [
+          16,
+          14
+        ],
+        "original_raw_ncc": 0.9510175585746765,
+        "original_highpass_ncc": 0.07120323181152344,
+        "original_match_location": [
+          46,
+          46
+        ],
+        "original_highpass_match_location": [
+          42,
+          48
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_195.jpg",
+          "id": 292,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_218.jpg",
+          "id": 1733,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9605445265769958,
+        "offset64": [
+          8,
+          0
+        ],
+        "original_raw_ncc": 0.9468886852264404,
+        "original_highpass_ncc": 0.047044310718774796,
+        "original_match_location": [
+          24,
+          0
+        ],
+        "original_highpass_match_location": [
+          0,
+          25
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_195.jpg",
+          "id": 292,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_198.jpg",
+          "id": 729,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9602242112159729,
+        "offset64": [
+          3,
+          7
+        ],
+        "original_raw_ncc": 0.9486527442932129,
+        "original_highpass_ncc": 0.05179332569241524,
+        "original_match_location": [
+          10,
+          21
+        ],
+        "original_highpass_match_location": [
+          26,
+          35
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_154.jpg",
+          "id": 1193,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_86.jpg",
+          "id": 1500,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9601933360099792,
+        "offset64": [
+          0,
+          11
+        ],
+        "original_raw_ncc": 0.9472969770431519,
+        "original_highpass_ncc": 0.048539601266384125,
+        "original_match_location": [
+          0,
+          45
+        ],
+        "original_highpass_match_location": [
+          8,
+          33
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "inclusion_253.jpg",
+          "id": 1747,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_232.jpg",
+          "id": 251,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9600414633750916,
+        "offset64": [
+          15,
+          16
+        ],
+        "original_raw_ncc": 0.9404307007789612,
+        "original_highpass_ncc": 0.048315756022930145,
+        "original_match_location": [
+          47,
+          50
+        ],
+        "original_highpass_match_location": [
+          25,
+          4
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_43.jpg",
+          "id": 1201,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_86.jpg",
+          "id": 1500,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.959886908531189,
+        "offset64": [
+          0,
+          15
+        ],
+        "original_raw_ncc": 0.9431555867195129,
+        "original_highpass_ncc": 0.050129737704992294,
+        "original_match_location": [
+          0,
+          47
+        ],
+        "original_highpass_match_location": [
+          20,
+          45
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_118.jpg",
+          "id": 824,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_285.jpg",
+          "id": 1545,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9596722722053528,
+        "offset64": [
+          11,
+          8
+        ],
+        "original_raw_ncc": 0.9443733096122742,
+        "original_highpass_ncc": 0.06643074005842209,
+        "original_match_location": [
+          40,
+          17
+        ],
+        "original_highpass_match_location": [
+          41,
+          16
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_299.jpg",
+          "id": 625,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_257.jpg",
+          "id": 1532,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9595046043395996,
+        "offset64": [
+          2,
+          16
+        ],
+        "original_raw_ncc": 0.9487363696098328,
+        "original_highpass_ncc": 0.042036768049001694,
+        "original_match_location": [
+          6,
+          50
+        ],
+        "original_highpass_match_location": [
+          38,
+          46
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_118.jpg",
+          "id": 824,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_249.jpg",
+          "id": 943,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9590243101119995,
+        "offset64": [
+          14,
+          2
+        ],
+        "original_raw_ncc": 0.942071795463562,
+        "original_highpass_ncc": 0.05452601611614227,
+        "original_match_location": [
+          44,
+          5
+        ],
+        "original_highpass_match_location": [
+          37,
+          8
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "inclusion_254.jpg",
+          "id": 800,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_249.jpg",
+          "id": 943,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9588680267333984,
+        "offset64": [
+          15,
+          0
+        ],
+        "original_raw_ncc": 0.9446927309036255,
+        "original_highpass_ncc": 0.15918049216270447,
+        "original_match_location": [
+          47,
+          0
+        ],
+        "original_highpass_match_location": [
+          48,
+          5
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_194.jpg",
+          "id": 1726,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_142.jpg",
+          "id": 825,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9586688876152039,
+        "offset64": [
+          5,
+          15
+        ],
+        "original_raw_ncc": 0.9295282959938049,
+        "original_highpass_ncc": 0.05310062691569328,
+        "original_match_location": [
+          16,
+          47
+        ],
+        "original_highpass_match_location": [
+          13,
+          13
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_35.jpg",
+          "id": 837,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_142.jpg",
+          "id": 825,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9586424231529236,
+        "offset64": [
+          16,
+          10
+        ],
+        "original_raw_ncc": 0.924747109413147,
+        "original_highpass_ncc": 0.0457230880856514,
+        "original_match_location": [
+          50,
+          47
+        ],
+        "original_highpass_match_location": [
+          35,
+          38
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_211.jpg",
+          "id": 614,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_298.jpg",
+          "id": 1448,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9586084485054016,
+        "offset64": [
+          8,
+          5
+        ],
+        "original_raw_ncc": 0.9406032562255859,
+        "original_highpass_ncc": 0.06050047278404236,
+        "original_match_location": [
+          26,
+          17
+        ],
+        "original_highpass_match_location": [
+          2,
+          43
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_211.jpg",
+          "id": 614,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_86.jpg",
+          "id": 1500,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9584359526634216,
+        "offset64": [
+          12,
+          0
+        ],
+        "original_raw_ncc": 0.9465548992156982,
+        "original_highpass_ncc": 0.0574660450220108,
+        "original_match_location": [
+          37,
+          0
+        ],
+        "original_highpass_match_location": [
+          3,
+          35
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_28.jpg",
+          "id": 622,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_249.jpg",
+          "id": 943,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9583913683891296,
+        "offset64": [
+          12,
+          14
+        ],
+        "original_raw_ncc": 0.9399884939193726,
+        "original_highpass_ncc": 0.04924929141998291,
+        "original_match_location": [
+          45,
+          45
+        ],
+        "original_highpass_match_location": [
+          20,
+          37
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_245.jpg",
+          "id": 1550,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_106.jpg",
+          "id": 1538,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9583592414855957,
+        "offset64": [
+          16,
+          14
+        ],
+        "original_raw_ncc": 0.9319484829902649,
+        "original_highpass_ncc": 0.044685982167720795,
+        "original_match_location": [
+          50,
+          0
+        ],
+        "original_highpass_match_location": [
+          15,
+          32
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_69.jpg",
+          "id": 423,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_4.jpg",
+          "id": 520,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9582899212837219,
+        "offset64": [
+          3,
+          2
+        ],
+        "original_raw_ncc": 0.9441045522689819,
+        "original_highpass_ncc": 0.047013211995363235,
+        "original_match_location": [
+          9,
+          2
+        ],
+        "original_highpass_match_location": [
+          50,
+          28
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "scratches_300.jpg",
+          "id": 1598,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_86.jpg",
+          "id": 1500,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9581793546676636,
+        "offset64": [
+          16,
+          11
+        ],
+        "original_raw_ncc": 0.9478049874305725,
+        "original_highpass_ncc": 0.04684247076511383,
+        "original_match_location": [
+          50,
+          33
+        ],
+        "original_highpass_match_location": [
+          46,
+          21
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "inclusion_241.jpg",
+          "id": 577,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_249.jpg",
+          "id": 943,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9579938650131226,
+        "offset64": [
+          16,
+          3
+        ],
+        "original_raw_ncc": 0.9403047561645508,
+        "original_highpass_ncc": 0.04965263232588768,
+        "original_match_location": [
+          50,
+          11
+        ],
+        "original_highpass_match_location": [
+          14,
+          36
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "inclusion_239.jpg",
+          "id": 380,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_298.jpg",
+          "id": 1448,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9579907655715942,
+        "offset64": [
+          2,
+          16
+        ],
+        "original_raw_ncc": 0.9412007927894592,
+        "original_highpass_ncc": 0.04402485489845276,
+        "original_match_location": [
+          6,
+          50
+        ],
+        "original_highpass_match_location": [
+          39,
+          17
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_35.jpg",
+          "id": 837,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_62.jpg",
+          "id": 1720,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9579633474349976,
+        "offset64": [
+          0,
+          16
+        ],
+        "original_raw_ncc": 0.9272894859313965,
+        "original_highpass_ncc": 0.04594062641263008,
+        "original_match_location": [
+          7,
+          50
+        ],
+        "original_highpass_match_location": [
+          23,
+          42
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_137.jpg",
+          "id": 1663,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_218.jpg",
+          "id": 1733,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9579579830169678,
+        "offset64": [
+          14,
+          8
+        ],
+        "original_raw_ncc": 0.9334278106689453,
+        "original_highpass_ncc": 0.05329226329922676,
+        "original_match_location": [
+          42,
+          25
+        ],
+        "original_highpass_match_location": [
+          9,
+          31
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_145.jpg",
+          "id": 1299,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_257.jpg",
+          "id": 1532,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9577969908714294,
+        "offset64": [
+          9,
+          0
+        ],
+        "original_raw_ncc": 0.9377551674842834,
+        "original_highpass_ncc": 0.052434008568525314,
+        "original_match_location": [
+          28,
+          0
+        ],
+        "original_highpass_match_location": [
+          24,
+          17
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_194.jpg",
+          "id": 1726,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_257.jpg",
+          "id": 1532,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.957633912563324,
+        "offset64": [
+          15,
+          16
+        ],
+        "original_raw_ncc": 0.9473403692245483,
+        "original_highpass_ncc": 0.04693654552102089,
+        "original_match_location": [
+          46,
+          50
+        ],
+        "original_highpass_match_location": [
+          9,
+          24
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_5.jpg",
+          "id": 736,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_4.jpg",
+          "id": 520,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9573602676391602,
+        "offset64": [
+          3,
+          0
+        ],
+        "original_raw_ncc": 0.934455931186676,
+        "original_highpass_ncc": 0.07986963540315628,
+        "original_match_location": [
+          9,
+          0
+        ],
+        "original_highpass_match_location": [
+          9,
+          6
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_257.jpg",
+          "id": 619,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_285.jpg",
+          "id": 1545,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9571300745010376,
+        "offset64": [
+          16,
+          16
+        ],
+        "original_raw_ncc": 0.9427177309989929,
+        "original_highpass_ncc": 0.044520266354084015,
+        "original_match_location": [
+          50,
+          50
+        ],
+        "original_highpass_match_location": [
+          41,
+          7
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "inclusion_271.jpg",
+          "id": 1770,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_249.jpg",
+          "id": 943,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9570157527923584,
+        "offset64": [
+          16,
+          16
+        ],
+        "original_raw_ncc": 0.9417572617530823,
+        "original_highpass_ncc": 0.10037226229906082,
+        "original_match_location": [
+          50,
+          27
+        ],
+        "original_highpass_match_location": [
+          50,
+          50
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_257.jpg",
+          "id": 619,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_249.jpg",
+          "id": 943,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9569661617279053,
+        "offset64": [
+          12,
+          14
+        ],
+        "original_raw_ncc": 0.9391590356826782,
+        "original_highpass_ncc": 0.04695671424269676,
+        "original_match_location": [
+          41,
+          44
+        ],
+        "original_highpass_match_location": [
+          16,
+          18
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_194.jpg",
+          "id": 1726,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_126.jpg",
+          "id": 1059,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.956940770149231,
+        "offset64": [
+          14,
+          0
+        ],
+        "original_raw_ncc": 0.9420849680900574,
+        "original_highpass_ncc": 0.054556962102651596,
+        "original_match_location": [
+          43,
+          1
+        ],
+        "original_highpass_match_location": [
+          0,
+          42
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_117.jpg",
+          "id": 913,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_198.jpg",
+          "id": 729,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9568657875061035,
+        "offset64": [
+          7,
+          1
+        ],
+        "original_raw_ncc": 0.9383255839347839,
+        "original_highpass_ncc": 0.049770791083574295,
+        "original_match_location": [
+          46,
+          3
+        ],
+        "original_highpass_match_location": [
+          23,
+          0
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_117.jpg",
+          "id": 913,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_218.jpg",
+          "id": 1733,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9565127491950989,
+        "offset64": [
+          8,
+          0
+        ],
+        "original_raw_ncc": 0.9357978105545044,
+        "original_highpass_ncc": 0.049467526376247406,
+        "original_match_location": [
+          26,
+          0
+        ],
+        "original_highpass_match_location": [
+          23,
+          35
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_82.jpg",
+          "id": 842,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_106.jpg",
+          "id": 1538,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9560266137123108,
+        "offset64": [
+          16,
+          10
+        ],
+        "original_raw_ncc": 0.9277469515800476,
+        "original_highpass_ncc": 0.043982651084661484,
+        "original_match_location": [
+          50,
+          31
+        ],
+        "original_highpass_match_location": [
+          45,
+          15
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_81.jpg",
+          "id": 1393,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_285.jpg",
+          "id": 1545,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9560198187828064,
+        "offset64": [
+          15,
+          3
+        ],
+        "original_raw_ncc": 0.941769003868103,
+        "original_highpass_ncc": 0.0417671874165535,
+        "original_match_location": [
+          48,
+          9
+        ],
+        "original_highpass_match_location": [
+          21,
+          42
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_151.jpg",
+          "id": 826,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_257.jpg",
+          "id": 1532,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9559628367424011,
+        "offset64": [
+          16,
+          16
+        ],
+        "original_raw_ncc": 0.9388749003410339,
+        "original_highpass_ncc": 0.058373019099235535,
+        "original_match_location": [
+          50,
+          50
+        ],
+        "original_highpass_match_location": [
+          38,
+          28
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_252.jpg",
+          "id": 907,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_106.jpg",
+          "id": 1538,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9558097720146179,
+        "offset64": [
+          10,
+          16
+        ],
+        "original_raw_ncc": 0.9310606718063354,
+        "original_highpass_ncc": 0.04008231684565544,
+        "original_match_location": [
+          32,
+          50
+        ],
+        "original_highpass_match_location": [
+          21,
+          30
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_35.jpg",
+          "id": 837,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_249.jpg",
+          "id": 943,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9555456042289734,
+        "offset64": [
+          10,
+          4
+        ],
+        "original_raw_ncc": 0.937125027179718,
+        "original_highpass_ncc": 0.052736904472112656,
+        "original_match_location": [
+          32,
+          15
+        ],
+        "original_highpass_match_location": [
+          46,
+          3
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_129.jpg",
+          "id": 64,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_62.jpg",
+          "id": 1720,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9554430246353149,
+        "offset64": [
+          0,
+          16
+        ],
+        "original_raw_ncc": 0.9347538948059082,
+        "original_highpass_ncc": 0.03977822884917259,
+        "original_match_location": [
+          9,
+          50
+        ],
+        "original_highpass_match_location": [
+          4,
+          16
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_281.jpg",
+          "id": 1323,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_298.jpg",
+          "id": 1448,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9554116725921631,
+        "offset64": [
+          14,
+          16
+        ],
+        "original_raw_ncc": 0.9359244704246521,
+        "original_highpass_ncc": 0.058097898960113525,
+        "original_match_location": [
+          43,
+          50
+        ],
+        "original_highpass_match_location": [
+          32,
+          22
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_199.jpg",
+          "id": 1392,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_249.jpg",
+          "id": 943,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9551040530204773,
+        "offset64": [
+          0,
+          0
+        ],
+        "original_raw_ncc": 0.9430138468742371,
+        "original_highpass_ncc": 0.08472450822591782,
+        "original_match_location": [
+          44,
+          39
+        ],
+        "original_highpass_match_location": [
+          24,
+          10
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_211.jpg",
+          "id": 614,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_267.jpg",
+          "id": 296,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9551010727882385,
+        "offset64": [
+          0,
+          14
+        ],
+        "original_raw_ncc": 0.9395530819892883,
+        "original_highpass_ncc": 0.0635676309466362,
+        "original_match_location": [
+          0,
+          44
+        ],
+        "original_highpass_match_location": [
+          47,
+          11
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "inclusion_241.jpg",
+          "id": 577,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_257.jpg",
+          "id": 1532,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9550570249557495,
+        "offset64": [
+          10,
+          16
+        ],
+        "original_raw_ncc": 0.9354608058929443,
+        "original_highpass_ncc": 0.048056043684482574,
+        "original_match_location": [
+          35,
+          50
+        ],
+        "original_highpass_match_location": [
+          6,
+          42
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_137.jpg",
+          "id": 1663,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_198.jpg",
+          "id": 729,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9550264477729797,
+        "offset64": [
+          14,
+          14
+        ],
+        "original_raw_ncc": 0.9312213659286499,
+        "original_highpass_ncc": 0.04426228627562523,
+        "original_match_location": [
+          46,
+          43
+        ],
+        "original_highpass_match_location": [
+          36,
+          0
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_149.jpg",
+          "id": 66,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_86.jpg",
+          "id": 1500,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9549908638000488,
+        "offset64": [
+          12,
+          16
+        ],
+        "original_raw_ncc": 0.932325005531311,
+        "original_highpass_ncc": 0.051988910883665085,
+        "original_match_location": [
+          38,
+          50
+        ],
+        "original_highpass_match_location": [
+          21,
+          25
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_194.jpg",
+          "id": 1726,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_249.jpg",
+          "id": 943,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9548195004463196,
+        "offset64": [
+          0,
+          7
+        ],
+        "original_raw_ncc": 0.9433287382125854,
+        "original_highpass_ncc": 0.0894906297326088,
+        "original_match_location": [
+          0,
+          21
+        ],
+        "original_highpass_match_location": [
+          33,
+          0
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_252.jpg",
+          "id": 907,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_142.jpg",
+          "id": 825,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9547175765037537,
+        "offset64": [
+          12,
+          15
+        ],
+        "original_raw_ncc": 0.9215868711471558,
+        "original_highpass_ncc": 0.044730715453624725,
+        "original_match_location": [
+          35,
+          30
+        ],
+        "original_highpass_match_location": [
+          40,
+          47
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_252.jpg",
+          "id": 907,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_39.jpg",
+          "id": 783,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9546253681182861,
+        "offset64": [
+          16,
+          10
+        ],
+        "original_raw_ncc": 0.9377173781394958,
+        "original_highpass_ncc": 0.0485602430999279,
+        "original_match_location": [
+          50,
+          30
+        ],
+        "original_highpass_match_location": [
+          32,
+          10
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "inclusion_272.jpg",
+          "id": 161,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_285.jpg",
+          "id": 1545,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9545518755912781,
+        "offset64": [
+          16,
+          0
+        ],
+        "original_raw_ncc": 0.9409429430961609,
+        "original_highpass_ncc": 0.04973212257027626,
+        "original_match_location": [
+          49,
+          0
+        ],
+        "original_highpass_match_location": [
+          20,
+          44
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_28.jpg",
+          "id": 622,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_106.jpg",
+          "id": 1538,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9544389843940735,
+        "offset64": [
+          9,
+          12
+        ],
+        "original_raw_ncc": 0.9248901009559631,
+        "original_highpass_ncc": 0.03974142670631409,
+        "original_match_location": [
+          30,
+          44
+        ],
+        "original_highpass_match_location": [
+          26,
+          24
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_257.jpg",
+          "id": 619,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_142.jpg",
+          "id": 825,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9544326663017273,
+        "offset64": [
+          16,
+          6
+        ],
+        "original_raw_ncc": 0.9202445149421692,
+        "original_highpass_ncc": 0.04891236126422882,
+        "original_match_location": [
+          50,
+          17
+        ],
+        "original_highpass_match_location": [
+          41,
+          39
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_117.jpg",
+          "id": 913,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_106.jpg",
+          "id": 1538,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.954093337059021,
+        "offset64": [
+          8,
+          11
+        ],
+        "original_raw_ncc": 0.9254111051559448,
+        "original_highpass_ncc": 0.038784097880125046,
+        "original_match_location": [
+          49,
+          32
+        ],
+        "original_highpass_match_location": [
+          0,
+          22
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "inclusion_255.jpg",
+          "id": 1212,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_285.jpg",
+          "id": 1545,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9540252685546875,
+        "offset64": [
+          16,
+          16
+        ],
+        "original_raw_ncc": 0.9418717622756958,
+        "original_highpass_ncc": 0.05098919942975044,
+        "original_match_location": [
+          50,
+          50
+        ],
+        "original_highpass_match_location": [
+          43,
+          48
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "inclusion_3.jpg",
+          "id": 162,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_285.jpg",
+          "id": 1545,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.953997015953064,
+        "offset64": [
+          16,
+          16
+        ],
+        "original_raw_ncc": 0.9387738108634949,
+        "original_highpass_ncc": 0.06786659359931946,
+        "original_match_location": [
+          50,
+          50
+        ],
+        "original_highpass_match_location": [
+          15,
+          0
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_64.jpg",
+          "id": 1383,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_86.jpg",
+          "id": 1500,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.953905463218689,
+        "offset64": [
+          12,
+          16
+        ],
+        "original_raw_ncc": 0.9254353642463684,
+        "original_highpass_ncc": 0.051391471177339554,
+        "original_match_location": [
+          50,
+          50
+        ],
+        "original_highpass_match_location": [
+          6,
+          33
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_49.jpg",
+          "id": 839,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_11.jpg",
+          "id": 1025,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9537140130996704,
+        "offset64": [
+          15,
+          6
+        ],
+        "original_raw_ncc": 0.9215488433837891,
+        "original_highpass_ncc": 0.05101042240858078,
+        "original_match_location": [
+          48,
+          18
+        ],
+        "original_highpass_match_location": [
+          46,
+          3
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_221.jpg",
+          "id": 1771,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_106.jpg",
+          "id": 1538,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9535974264144897,
+        "offset64": [
+          8,
+          0
+        ],
+        "original_raw_ncc": 0.9238454103469849,
+        "original_highpass_ncc": 0.048594191670417786,
+        "original_match_location": [
+          26,
+          0
+        ],
+        "original_highpass_match_location": [
+          35,
+          10
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_108.jpg",
+          "id": 511,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_4.jpg",
+          "id": 520,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9533877968788147,
+        "offset64": [
+          16,
+          0
+        ],
+        "original_raw_ncc": 0.9362638592720032,
+        "original_highpass_ncc": 0.08029907196760178,
+        "original_match_location": [
+          50,
+          0
+        ],
+        "original_highpass_match_location": [
+          43,
+          43
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_137.jpg",
+          "id": 1663,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_232.jpg",
+          "id": 251,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9533483386039734,
+        "offset64": [
+          0,
+          0
+        ],
+        "original_raw_ncc": 0.9265606999397278,
+        "original_highpass_ncc": 0.04780422896146774,
+        "original_match_location": [
+          2,
+          0
+        ],
+        "original_highpass_match_location": [
+          50,
+          17
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_222.jpg",
+          "id": 1556,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_285.jpg",
+          "id": 1545,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9532498717308044,
+        "offset64": [
+          14,
+          2
+        ],
+        "original_raw_ncc": 0.9378656148910522,
+        "original_highpass_ncc": 0.06231465935707092,
+        "original_match_location": [
+          31,
+          7
+        ],
+        "original_highpass_match_location": [
+          31,
+          7
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_152.jpg",
+          "id": 827,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_62.jpg",
+          "id": 1720,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9527412056922913,
+        "offset64": [
+          16,
+          0
+        ],
+        "original_raw_ncc": 0.9247401356697083,
+        "original_highpass_ncc": 0.04426860809326172,
+        "original_match_location": [
+          50,
+          0
+        ],
+        "original_highpass_match_location": [
+          21,
+          46
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "inclusion_255.jpg",
+          "id": 1212,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_58.jpg",
+          "id": 521,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9524107575416565,
+        "offset64": [
+          14,
+          5
+        ],
+        "original_raw_ncc": 0.9230712652206421,
+        "original_highpass_ncc": 0.04618895798921585,
+        "original_match_location": [
+          43,
+          18
+        ],
+        "original_highpass_match_location": [
+          3,
+          46
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_157.jpg",
+          "id": 289,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_11.jpg",
+          "id": 1025,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9522997140884399,
+        "offset64": [
+          15,
+          15
+        ],
+        "original_raw_ncc": 0.9173953533172607,
+        "original_highpass_ncc": 0.0568220429122448,
+        "original_match_location": [
+          46,
+          47
+        ],
+        "original_highpass_match_location": [
+          48,
+          11
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_257.jpg",
+          "id": 619,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_106.jpg",
+          "id": 1538,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9522474408149719,
+        "offset64": [
+          12,
+          14
+        ],
+        "original_raw_ncc": 0.9271370768547058,
+        "original_highpass_ncc": 0.052828870713710785,
+        "original_match_location": [
+          46,
+          46
+        ],
+        "original_highpass_match_location": [
+          37,
+          44
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_233.jpg",
+          "id": 1499,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_298.jpg",
+          "id": 1448,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9521985054016113,
+        "offset64": [
+          15,
+          16
+        ],
+        "original_raw_ncc": 0.9353970289230347,
+        "original_highpass_ncc": 0.05145280808210373,
+        "original_match_location": [
+          45,
+          49
+        ],
+        "original_highpass_match_location": [
+          33,
+          41
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_154.jpg",
+          "id": 1193,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_298.jpg",
+          "id": 1448,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9521942138671875,
+        "offset64": [
+          0,
+          10
+        ],
+        "original_raw_ncc": 0.9306641221046448,
+        "original_highpass_ncc": 0.051514364778995514,
+        "original_match_location": [
+          0,
+          32
+        ],
+        "original_highpass_match_location": [
+          42,
+          3
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "inclusion_256.jpg",
+          "id": 1432,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_250.jpg",
+          "id": 1055,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9519480466842651,
+        "offset64": [
+          16,
+          16
+        ],
+        "original_raw_ncc": 0.9342734813690186,
+        "original_highpass_ncc": 0.06669490039348602,
+        "original_match_location": [
+          50,
+          50
+        ],
+        "original_highpass_match_location": [
+          50,
+          47
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_35.jpg",
+          "id": 837,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_200.jpg",
+          "id": 1186,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9514482617378235,
+        "offset64": [
+          16,
+          2
+        ],
+        "original_raw_ncc": 0.9339093565940857,
+        "original_highpass_ncc": 0.04965902119874954,
+        "original_match_location": [
+          50,
+          49
+        ],
+        "original_highpass_match_location": [
+          5,
+          2
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_145.jpg",
+          "id": 1299,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_62.jpg",
+          "id": 1720,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9512728452682495,
+        "offset64": [
+          16,
+          0
+        ],
+        "original_raw_ncc": 0.9248307347297668,
+        "original_highpass_ncc": 0.04306492581963539,
+        "original_match_location": [
+          50,
+          0
+        ],
+        "original_highpass_match_location": [
+          48,
+          20
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "scratches_39.jpg",
+          "id": 343,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "scratches_112.jpg",
+          "id": 1584,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9512587785720825,
+        "offset64": [
+          8,
+          2
+        ],
+        "original_raw_ncc": 0.937214732170105,
+        "original_highpass_ncc": 0.4848095774650574,
+        "original_match_location": [
+          25,
+          8
+        ],
+        "original_highpass_match_location": [
+          24,
+          1
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "scratches_139.jpg",
+          "id": 1694,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "scratches_112.jpg",
+          "id": 1584,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9512406587600708,
+        "offset64": [
+          13,
+          0
+        ],
+        "original_raw_ncc": 0.9406052231788635,
+        "original_highpass_ncc": 0.602569580078125,
+        "original_match_location": [
+          41,
+          0
+        ],
+        "original_highpass_match_location": [
+          42,
+          31
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "inclusion_3.jpg",
+          "id": 162,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_106.jpg",
+          "id": 1538,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9511303901672363,
+        "offset64": [
+          14,
+          0
+        ],
+        "original_raw_ncc": 0.923337996006012,
+        "original_highpass_ncc": 0.05872930958867073,
+        "original_match_location": [
+          45,
+          1
+        ],
+        "original_highpass_match_location": [
+          37,
+          18
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_264.jpg",
+          "id": 295,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_86.jpg",
+          "id": 1500,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9509707689285278,
+        "offset64": [
+          16,
+          13
+        ],
+        "original_raw_ncc": 0.9294648766517639,
+        "original_highpass_ncc": 0.05994211509823799,
+        "original_match_location": [
+          50,
+          49
+        ],
+        "original_highpass_match_location": [
+          10,
+          45
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_194.jpg",
+          "id": 1726,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_39.jpg",
+          "id": 783,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9505996108055115,
+        "offset64": [
+          5,
+          2
+        ],
+        "original_raw_ncc": 0.9380182027816772,
+        "original_highpass_ncc": 0.046506959944963455,
+        "original_match_location": [
+          17,
+          9
+        ],
+        "original_highpass_match_location": [
+          17,
+          0
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_244.jpg",
+          "id": 516,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_198.jpg",
+          "id": 729,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9505695104598999,
+        "offset64": [
+          10,
+          16
+        ],
+        "original_raw_ncc": 0.9367873668670654,
+        "original_highpass_ncc": 0.057880040258169174,
+        "original_match_location": [
+          33,
+          44
+        ],
+        "original_highpass_match_location": [
+          43,
+          33
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_171.jpg",
+          "id": 410,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_292.jpg",
+          "id": 297,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9504277110099792,
+        "offset64": [
+          7,
+          7
+        ],
+        "original_raw_ncc": 0.9975702166557312,
+        "original_highpass_ncc": 0.9853523373603821,
+        "original_match_location": [
+          23,
+          23
+        ],
+        "original_highpass_match_location": [
+          23,
+          23
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_28.jpg",
+          "id": 622,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_142.jpg",
+          "id": 825,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9502686262130737,
+        "offset64": [
+          16,
+          9
+        ],
+        "original_raw_ncc": 0.914860725402832,
+        "original_highpass_ncc": 0.060883600264787674,
+        "original_match_location": [
+          50,
+          50
+        ],
+        "original_highpass_match_location": [
+          13,
+          50
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_299.jpg",
+          "id": 625,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_126.jpg",
+          "id": 1059,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9501427412033081,
+        "offset64": [
+          11,
+          4
+        ],
+        "original_raw_ncc": 0.9356979727745056,
+        "original_highpass_ncc": 0.06248647719621658,
+        "original_match_location": [
+          34,
+          13
+        ],
+        "original_highpass_match_location": [
+          34,
+          13
+        ]
+      },
+      {
+        "support_image": {
+          "file_name": "inclusion_269.jpg",
+          "id": 709,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_285.jpg",
+          "id": 1545,
+          "width": 200,
+          "height": 200
+        },
+        "ncc64": 0.9500970244407654,
+        "offset64": [
+          0,
+          0
+        ],
+        "original_raw_ncc": 0.9366186261177063,
+        "original_highpass_ncc": 0.05289389193058014,
+        "original_match_location": [
+          0,
+          0
+        ],
+        "original_highpass_match_location": [
+          50,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "clipart1k",
+    "threshold_ncc64": 0.95,
+    "pairs": []
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "domain": "NEU-DET",
+    "support_file": "scratches_146.jpg",
+    "query_file": "scratches_147.jpg",
+    "decision": "exclude_query",
+    "review": "Visually reviewed side by side: same local defect/texture pattern under translation; original-resolution NCC and high-pass NCC support same-content overlap.",
+    "original_raw_ncc": 0.9989069104194641,
+    "original_highpass_ncc": 0.9856860041618347,
+    "match_location": [
+      6,
+      44
+    ]
+  },
+  {
+    "domain": "NEU-DET",
+    "support_file": "patches_19.jpg",
+    "query_file": "patches_21.jpg",
+    "decision": "exclude_query",
+    "review": "Visually reviewed side by side: same local defect/texture pattern under translation; original-resolution NCC and high-pass NCC support same-content overlap.",
+    "original_raw_ncc": 0.9981640577316284,
+    "original_highpass_ncc": 0.9663054943084717,
+    "match_location": [
+      14,
+      45
+    ]
+  },
+  {
+    "domain": "NEU-DET",
+    "support_file": "pitted_surface_171.jpg",
+    "query_file": "pitted_surface_292.jpg",
+    "decision": "exclude_query",
+    "review": "Visually reviewed side by side: same local defect/texture pattern under translation; original-resolution NCC and high-pass NCC support same-content overlap.",
+    "original_raw_ncc": 0.9975702166557312,
+    "original_highpass_ncc": 0.9853523373603821,
+    "match_location": [
+      23,
+      23
+    ]
+  }
+]

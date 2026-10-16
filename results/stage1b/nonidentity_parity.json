@@ -1,0 +1,44 @@
+[
+  {
+    "domain": "NEU-DET",
+    "seed": 0,
+    "shot": 5,
+    "lambda": 100,
+    "mu": 1,
+    "image_ids": [
+      1574,
+      1160
+    ],
+    "query_cache_key": "ad5dd34bd59e35adb16360a1ae73f95bf7d89303f48756a946bfa51218f508a2",
+    "path": "live UPN/SAM/DINO; A applied to dense channels before fixed-mask pooling; transformed prototypes; official class regrouping and diffusion",
+    "detections": 196,
+    "max_score_error": 1.1920928955078125e-07,
+    "tolerance": 2e-05,
+    "passed": true,
+    "solve_relative_residual": 8.997462739535042e-16,
+    "context_trace": 0.057786109521377145,
+    "class_trace": 0.11907496971505085,
+    "mean_cosine_drift": 0.06107388619119758
+  },
+  {
+    "domain": "clipart1k",
+    "seed": 0,
+    "shot": 5,
+    "lambda": 100,
+    "mu": 1,
+    "image_ids": [
+      23,
+      26
+    ],
+    "query_cache_key": "2aaeb23cf70a742b89049918c8a85b6ae76c273800199b39ed2b80bfa27d0924",
+    "path": "live UPN/SAM/DINO; A applied to dense channels before fixed-mask pooling; transformed prototypes; official class regrouping and diffusion",
+    "detections": 200,
+    "max_score_error": 1.7881393432617188e-07,
+    "tolerance": 2e-05,
+    "passed": true,
+    "solve_relative_residual": 9.172863767428176e-16,
+    "context_trace": 0.021953591232711605,
+    "class_trace": 0.4959195431186768,
+    "mean_cosine_drift": 0.020725967384278263
+  }
+]

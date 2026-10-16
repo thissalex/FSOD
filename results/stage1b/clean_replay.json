@@ -1,0 +1,28 @@
+[
+  {
+    "domain": "NEU-DET",
+    "image_ids": [
+      1574,
+      1160
+    ],
+    "code_root": "/tmp/fsod-stage1b-final-clean-znlvorm1",
+    "data_root": "/home/lab-310/Rzy/FSOD",
+    "detections": 196,
+    "max_score_error": 5.960464477539063e-08,
+    "tolerance": 2e-05,
+    "passed": true
+  },
+  {
+    "domain": "clipart1k",
+    "image_ids": [
+      23,
+      26
+    ],
+    "code_root": "/tmp/fsod-stage1b-final-clean-znlvorm1",
+    "data_root": "/home/lab-310/Rzy/FSOD",
+    "detections": 200,
+    "max_score_error": 1.7881393432617188e-07,
+    "tolerance": 2e-05,
+    "passed": true
+  }
+]

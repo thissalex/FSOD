@@ -1,0 +1,7 @@
+{
+  "status": "completed",
+  "grid_rows": 30,
+  "seconds": 416.0973495009821,
+  "peak_gpu_allocated_gib": 0.1768040657043457,
+  "config_sha256": "b73b516107ef70e3acd2877a24434456a100a2ff159aeaa574964e52141849cf"
+}

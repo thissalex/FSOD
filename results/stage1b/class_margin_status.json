@@ -1,0 +1,5 @@
+{
+  "status": "completed",
+  "rows": 780,
+  "matching": "fixed maximum-IoU original candidate per noncrowd GT at IoU>=0.5; descriptive only"
+}

@@ -1,0 +1,1480 @@
+[
+  {
+    "domain": "NEU-DET",
+    "support_images": 1152,
+    "query_images": 288,
+    "support_sha256": "5867a14a8c76d31e1d00c893cd8a702178b554b0270abae084ebaf957df641b9",
+    "query_sha256": "d7e99d661e15c7f3d8848a075a8931a60b3b1259ee33536f30d2bbe8ebf99b05",
+    "image_metadata_keys": {
+      "file_name": 1440,
+      "id": 1440,
+      "width": 1440,
+      "height": 1440
+    },
+    "cross_partition_phash_candidates": [
+      {
+        "support_image": {
+          "file_name": "inclusion_125.jpg",
+          "id": 464,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_88.jpg",
+          "id": 1774,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 8
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_171.jpg",
+          "id": 410,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_292.jpg",
+          "id": 297,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 8
+      },
+      {
+        "support_image": {
+          "file_name": "patches_140.jpg",
+          "id": 269,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_187.jpg",
+          "id": 153,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 12
+      },
+      {
+        "support_image": {
+          "file_name": "inclusion_188.jpg",
+          "id": 480,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_210.jpg",
+          "id": 455,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 12
+      },
+      {
+        "support_image": {
+          "file_name": "inclusion_217.jpg",
+          "id": 681,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_46.jpg",
+          "id": 1761,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 14
+      },
+      {
+        "support_image": {
+          "file_name": "scratches_298.jpg",
+          "id": 1004,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "scratches_18.jpg",
+          "id": 108,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 14
+      },
+      {
+        "support_image": {
+          "file_name": "inclusion_194.jpg",
+          "id": 460,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_288.jpg",
+          "id": 1707,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 14
+      },
+      {
+        "support_image": {
+          "file_name": "crazing_119.jpg",
+          "id": 137,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_62.jpg",
+          "id": 1720,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 14
+      },
+      {
+        "support_image": {
+          "file_name": "patches_266.jpg",
+          "id": 814,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "crazing_271.jpg",
+          "id": 224,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 14
+      },
+      {
+        "support_image": {
+          "file_name": "crazing_102.jpg",
+          "id": 922,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "patches_18.jpg",
+          "id": 786,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 14
+      },
+      {
+        "support_image": {
+          "file_name": "inclusion_154.jpg",
+          "id": 1403,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_73.jpg",
+          "id": 387,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_264.jpg",
+          "id": 295,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_73.jpg",
+          "id": 387,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "patches_97.jpg",
+          "id": 510,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_61.jpg",
+          "id": 385,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "scratches_159.jpg",
+          "id": 210,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "crazing_186.jpg",
+          "id": 919,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_122.jpg",
+          "id": 1159,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_174.jpg",
+          "id": 1514,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "inclusion_145.jpg",
+          "id": 798,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_21.jpg",
+          "id": 29,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "inclusion_77.jpg",
+          "id": 1605,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_272.jpg",
+          "id": 518,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "inclusion_127.jpg",
+          "id": 1423,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_250.jpg",
+          "id": 1055,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_208.jpg",
+          "id": 1040,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_250.jpg",
+          "id": 1055,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "inclusion_58.jpg",
+          "id": 38,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "crazing_300.jpg",
+          "id": 1727,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "crazing_32.jpg",
+          "id": 1194,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_218.jpg",
+          "id": 1733,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "patches_141.jpg",
+          "id": 1653,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "rolled-in_scale_157.jpg",
+          "id": 1455,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "inclusion_273.jpg",
+          "id": 1068,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_288.jpg",
+          "id": 1707,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "inclusion_72.jpg",
+          "id": 699,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_7.jpg",
+          "id": 259,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "crazing_61.jpg",
+          "id": 143,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_229.jpg",
+          "id": 687,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "scratches_300.jpg",
+          "id": 1598,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "crazing_288.jpg",
+          "id": 1431,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "patches_79.jpg",
+          "id": 284,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "patches_300.jpg",
+          "id": 1034,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_64.jpg",
+          "id": 1383,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "rolled-in_scale_120.jpg",
+          "id": 1743,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "inclusion_260.jpg",
+          "id": 1385,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "crazing_245.jpg",
+          "id": 1088,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "rolled-in_scale_135.jpg",
+          "id": 1345,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "rolled-in_scale_55.jpg",
+          "id": 983,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "crazing_239.jpg",
+          "id": 1328,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_239.jpg",
+          "id": 927,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "scratches_81.jpg",
+          "id": 1489,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "patches_255.jpg",
+          "id": 56,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "rolled-in_scale_96.jpg",
+          "id": 440,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "crazing_176.jpg",
+          "id": 923,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_269.jpg",
+          "id": 193,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_106.jpg",
+          "id": 1538,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "crazing_125.jpg",
+          "id": 1339,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_292.jpg",
+          "id": 297,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "scratches_44.jpg",
+          "id": 1373,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "scratches_33.jpg",
+          "id": 666,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "rolled-in_scale_94.jpg",
+          "id": 651,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "scratches_262.jpg",
+          "id": 1698,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "rolled-in_scale_48.jpg",
+          "id": 205,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "crazing_232.jpg",
+          "id": 1754,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_85.jpg",
+          "id": 1711,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_35.jpg",
+          "id": 553,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "rolled-in_scale_253.jpg",
+          "id": 1351,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "patches_192.jpg",
+          "id": 496,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_117.jpg",
+          "id": 913,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_198.jpg",
+          "id": 729,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "rolled-in_scale_63.jpg",
+          "id": 1110,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "scratches_129.jpg",
+          "id": 1476,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "scratches_17.jpg",
+          "id": 106,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_144.jpg",
+          "id": 185,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "inclusion_96.jpg",
+          "id": 1506,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_144.jpg",
+          "id": 185,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "crazing_113.jpg",
+          "id": 1046,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "patches_190.jpg",
+          "id": 1301,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_295.jpg",
+          "id": 624,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_178.jpg",
+          "id": 187,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "patches_234.jpg",
+          "id": 1283,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "patches_214.jpg",
+          "id": 51,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "inclusion_176.jpg",
+          "id": 1075,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "crazing_45.jpg",
+          "id": 365,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "crazing_262.jpg",
+          "id": 933,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_263.jpg",
+          "id": 254,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_21.jpg",
+          "id": 70,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_116.jpg",
+          "id": 823,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 16
+      }
+    ],
+    "nearest_pairs_for_visual_sanity_check": [
+      {
+        "support_image": {
+          "file_name": "inclusion_125.jpg",
+          "id": 464,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_88.jpg",
+          "id": 1774,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 8
+      },
+      {
+        "support_image": {
+          "file_name": "pitted_surface_171.jpg",
+          "id": 410,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_292.jpg",
+          "id": 297,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 8
+      },
+      {
+        "support_image": {
+          "file_name": "patches_140.jpg",
+          "id": 269,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_187.jpg",
+          "id": 153,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 12
+      },
+      {
+        "support_image": {
+          "file_name": "inclusion_188.jpg",
+          "id": 480,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_210.jpg",
+          "id": 455,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 12
+      },
+      {
+        "support_image": {
+          "file_name": "inclusion_217.jpg",
+          "id": 681,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_46.jpg",
+          "id": 1761,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 14
+      },
+      {
+        "support_image": {
+          "file_name": "scratches_298.jpg",
+          "id": 1004,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "scratches_18.jpg",
+          "id": 108,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 14
+      },
+      {
+        "support_image": {
+          "file_name": "inclusion_194.jpg",
+          "id": 460,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "inclusion_288.jpg",
+          "id": 1707,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 14
+      },
+      {
+        "support_image": {
+          "file_name": "crazing_119.jpg",
+          "id": 137,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "pitted_surface_62.jpg",
+          "id": 1720,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 14
+      },
+      {
+        "support_image": {
+          "file_name": "patches_266.jpg",
+          "id": 814,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "crazing_271.jpg",
+          "id": 224,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 14
+      },
+      {
+        "support_image": {
+          "file_name": "crazing_102.jpg",
+          "id": 922,
+          "width": 200,
+          "height": 200
+        },
+        "query_image": {
+          "file_name": "patches_18.jpg",
+          "id": 786,
+          "width": 200,
+          "height": 200
+        },
+        "hamming": 14
+      }
+    ],
+    "threshold": 16,
+    "source_sequences": "unknown; no verified acquisition/sequence mapping"
+  },
+  {
+    "domain": "clipart1k",
+    "support_images": 399,
+    "query_images": 100,
+    "support_sha256": "f03492383a022df1ac5e135fb02a1e94adb12685b6fdb8537c443f95ee3d6616",
+    "query_sha256": "01e69ac585540b691278d18c4939f7093bdbf68b5b1024d7c484af93cfbf7d06",
+    "image_metadata_keys": {
+      "file_name": 499,
+      "id": 499,
+      "width": 499,
+      "height": 499
+    },
+    "cross_partition_phash_candidates": [
+      {
+        "support_image": {
+          "file_name": "573846079.jpg",
+          "id": 784,
+          "width": 350,
+          "height": 320
+        },
+        "query_image": {
+          "file_name": "638923993.jpg",
+          "id": 782,
+          "width": 350,
+          "height": 262
+        },
+        "hamming": 10
+      },
+      {
+        "support_image": {
+          "file_name": "656824325.jpg",
+          "id": 571,
+          "width": 500,
+          "height": 500
+        },
+        "query_image": {
+          "file_name": "685358983.jpg",
+          "id": 343,
+          "width": 640,
+          "height": 367
+        },
+        "hamming": 12
+      },
+      {
+        "support_image": {
+          "file_name": "953730990.jpg",
+          "id": 387,
+          "width": 1080,
+          "height": 1024
+        },
+        "query_image": {
+          "file_name": "421209407.jpg",
+          "id": 314,
+          "width": 128,
+          "height": 124
+        },
+        "hamming": 14
+      },
+      {
+        "support_image": {
+          "file_name": "385932076.jpg",
+          "id": 508,
+          "width": 1080,
+          "height": 1024
+        },
+        "query_image": {
+          "file_name": "438692624.jpg",
+          "id": 317,
+          "width": 445,
+          "height": 340
+        },
+        "hamming": 14
+      },
+      {
+        "support_image": {
+          "file_name": "212587086.jpg",
+          "id": 310,
+          "width": 600,
+          "height": 423
+        },
+        "query_image": {
+          "file_name": "67983918.jpg",
+          "id": 341,
+          "width": 225,
+          "height": 259
+        },
+        "hamming": 14
+      },
+      {
+        "support_image": {
+          "file_name": "217113880.jpg",
+          "id": 776,
+          "width": 298,
+          "height": 350
+        },
+        "query_image": {
+          "file_name": "740166127.jpg",
+          "id": 814,
+          "width": 340,
+          "height": 340
+        },
+        "hamming": 14
+      },
+      {
+        "support_image": {
+          "file_name": "448216960.jpg",
+          "id": 182,
+          "width": 350,
+          "height": 278
+        },
+        "query_image": {
+          "file_name": "10776780.jpg",
+          "id": 840,
+          "width": 450,
+          "height": 320
+        },
+        "hamming": 14
+      },
+      {
+        "support_image": {
+          "file_name": "949623571.jpg",
+          "id": 121,
+          "width": 468,
+          "height": 340
+        },
+        "query_image": {
+          "file_name": "599829011.jpg",
+          "id": 70,
+          "width": 416,
+          "height": 470
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "262950620.jpg",
+          "id": 774,
+          "width": 450,
+          "height": 470
+        },
+        "query_image": {
+          "file_name": "554665762.jpg",
+          "id": 198,
+          "width": 150,
+          "height": 165
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "424271143.jpg",
+          "id": 948,
+          "width": 1272,
+          "height": 1300
+        },
+        "query_image": {
+          "file_name": "265871898.jpg",
+          "id": 309,
+          "width": 712,
+          "height": 340
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "836001696.jpg",
+          "id": 981,
+          "width": 450,
+          "height": 358
+        },
+        "query_image": {
+          "file_name": "537837683.jpg",
+          "id": 327,
+          "width": 416,
+          "height": 340
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "361887977.jpg",
+          "id": 169,
+          "width": 1300,
+          "height": 1025
+        },
+        "query_image": {
+          "file_name": "589225556.jpg",
+          "id": 334,
+          "width": 800,
+          "height": 1014
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "903774860.jpg",
+          "id": 489,
+          "width": 1300,
+          "height": 1052
+        },
+        "query_image": {
+          "file_name": "589225556.jpg",
+          "id": 334,
+          "width": 800,
+          "height": 1014
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "573846079.jpg",
+          "id": 784,
+          "width": 350,
+          "height": 320
+        },
+        "query_image": {
+          "file_name": "685358983.jpg",
+          "id": 343,
+          "width": 640,
+          "height": 367
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "251085745.jpg",
+          "id": 144,
+          "width": 360,
+          "height": 470
+        },
+        "query_image": {
+          "file_name": "75025618.jpg",
+          "id": 351,
+          "width": 300,
+          "height": 249
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "699449269.jpg",
+          "id": 896,
+          "width": 450,
+          "height": 470
+        },
+        "query_image": {
+          "file_name": "831099990.jpg",
+          "id": 369,
+          "width": 450,
+          "height": 470
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "43468109.jpg",
+          "id": 179,
+          "width": 1701,
+          "height": 1071
+        },
+        "query_image": {
+          "file_name": "142939031.jpg",
+          "id": 434,
+          "width": 238,
+          "height": 200
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "363251547.jpg",
+          "id": 423,
+          "width": 477,
+          "height": 340
+        },
+        "query_image": {
+          "file_name": "675104106.jpg",
+          "id": 561,
+          "width": 1024,
+          "height": 1044
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "524162455.jpg",
+          "id": 191,
+          "width": 170,
+          "height": 113
+        },
+        "query_image": {
+          "file_name": "966517027.jpg",
+          "id": 768,
+          "width": 400,
+          "height": 300
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "360756727.jpg",
+          "id": 940,
+          "width": 275,
+          "height": 340
+        },
+        "query_image": {
+          "file_name": "98358458.jpg",
+          "id": 770,
+          "width": 350,
+          "height": 240
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "628079218.jpg",
+          "id": 674,
+          "width": 680,
+          "height": 340
+        },
+        "query_image": {
+          "file_name": "424413044.jpg",
+          "id": 801,
+          "width": 100,
+          "height": 76
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "305679588.jpg",
+          "id": 683,
+          "width": 170,
+          "height": 340
+        },
+        "query_image": {
+          "file_name": "424413044.jpg",
+          "id": 801,
+          "width": 100,
+          "height": 76
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "114059165.jpg",
+          "id": 949,
+          "width": 170,
+          "height": 127
+        },
+        "query_image": {
+          "file_name": "321632189.jpg",
+          "id": 851,
+          "width": 1300,
+          "height": 956
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "863510537.jpg",
+          "id": 105,
+          "width": 452,
+          "height": 340
+        },
+        "query_image": {
+          "file_name": "936245061.jpg",
+          "id": 996,
+          "width": 350,
+          "height": 150
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "998730868.jpg",
+          "id": 267,
+          "width": 300,
+          "height": 264
+        },
+        "query_image": {
+          "file_name": "936245061.jpg",
+          "id": 996,
+          "width": 350,
+          "height": 150
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "396789756.jpg",
+          "id": 506,
+          "width": 353,
+          "height": 340
+        },
+        "query_image": {
+          "file_name": "936245061.jpg",
+          "id": 996,
+          "width": 350,
+          "height": 150
+        },
+        "hamming": 16
+      }
+    ],
+    "nearest_pairs_for_visual_sanity_check": [
+      {
+        "support_image": {
+          "file_name": "573846079.jpg",
+          "id": 784,
+          "width": 350,
+          "height": 320
+        },
+        "query_image": {
+          "file_name": "638923993.jpg",
+          "id": 782,
+          "width": 350,
+          "height": 262
+        },
+        "hamming": 10
+      },
+      {
+        "support_image": {
+          "file_name": "656824325.jpg",
+          "id": 571,
+          "width": 500,
+          "height": 500
+        },
+        "query_image": {
+          "file_name": "685358983.jpg",
+          "id": 343,
+          "width": 640,
+          "height": 367
+        },
+        "hamming": 12
+      },
+      {
+        "support_image": {
+          "file_name": "953730990.jpg",
+          "id": 387,
+          "width": 1080,
+          "height": 1024
+        },
+        "query_image": {
+          "file_name": "421209407.jpg",
+          "id": 314,
+          "width": 128,
+          "height": 124
+        },
+        "hamming": 14
+      },
+      {
+        "support_image": {
+          "file_name": "385932076.jpg",
+          "id": 508,
+          "width": 1080,
+          "height": 1024
+        },
+        "query_image": {
+          "file_name": "438692624.jpg",
+          "id": 317,
+          "width": 445,
+          "height": 340
+        },
+        "hamming": 14
+      },
+      {
+        "support_image": {
+          "file_name": "212587086.jpg",
+          "id": 310,
+          "width": 600,
+          "height": 423
+        },
+        "query_image": {
+          "file_name": "67983918.jpg",
+          "id": 341,
+          "width": 225,
+          "height": 259
+        },
+        "hamming": 14
+      },
+      {
+        "support_image": {
+          "file_name": "217113880.jpg",
+          "id": 776,
+          "width": 298,
+          "height": 350
+        },
+        "query_image": {
+          "file_name": "740166127.jpg",
+          "id": 814,
+          "width": 340,
+          "height": 340
+        },
+        "hamming": 14
+      },
+      {
+        "support_image": {
+          "file_name": "448216960.jpg",
+          "id": 182,
+          "width": 350,
+          "height": 278
+        },
+        "query_image": {
+          "file_name": "10776780.jpg",
+          "id": 840,
+          "width": 450,
+          "height": 320
+        },
+        "hamming": 14
+      },
+      {
+        "support_image": {
+          "file_name": "949623571.jpg",
+          "id": 121,
+          "width": 468,
+          "height": 340
+        },
+        "query_image": {
+          "file_name": "599829011.jpg",
+          "id": 70,
+          "width": 416,
+          "height": 470
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "262950620.jpg",
+          "id": 774,
+          "width": 450,
+          "height": 470
+        },
+        "query_image": {
+          "file_name": "554665762.jpg",
+          "id": 198,
+          "width": 150,
+          "height": 165
+        },
+        "hamming": 16
+      },
+      {
+        "support_image": {
+          "file_name": "424271143.jpg",
+          "id": 948,
+          "width": 1272,
+          "height": 1300
+        },
+        "query_image": {
+          "file_name": "265871898.jpg",
+          "id": 309,
+          "width": 712,
+          "height": 340
+        },
+        "hamming": 16
+      }
+    ],
+    "threshold": 16,
+    "source_sequences": "unknown; no verified acquisition/sequence mapping"
+  }
+]

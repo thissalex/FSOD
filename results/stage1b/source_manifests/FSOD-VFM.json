@@ -1,0 +1,591 @@
+{
+  "repository": "https://github.com/Intellindust-AI-Lab/FSOD-VFM",
+  "commit": "6da781bf02046fe6f70530e1d5483abd9aef6c9c",
+  "format": "git-blob-verified source subset",
+  "files": [
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+      "size": 11357,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "923a256cf8340f085ad8956e194b25baaaa708f2",
+      "size": 8010,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/923a256cf8340f085ad8956e194b25baaaa708f2"
+    },
+    {
+      "path": "chatrex/tools/Tahoma.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d204f958dea02adfac43f256d46b0e270f75f3b1",
+      "size": 681120,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/d204f958dea02adfac43f256d46b0e270f75f3b1"
+    },
+    {
+      "path": "chatrex/tools/prompt_templates.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "25b1d40ac6b18a15f0e82e27317b99ce7ef8f4ba",
+      "size": 11250,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/25b1d40ac6b18a15f0e82e27317b99ce7ef8f4ba"
+    },
+    {
+      "path": "chatrex/tools/visualize.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "526cb0ebeec18debff983a5d7e986a9b04986a8e",
+      "size": 7256,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/526cb0ebeec18debff983a5d7e986a9b04986a8e"
+    },
+    {
+      "path": "chatrex/upn/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b590cc00c0a4308282ae60f372f2c9f364e2ffd6",
+      "size": 958,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/b590cc00c0a4308282ae60f372f2c9f364e2ffd6"
+    },
+    {
+      "path": "chatrex/upn/builder.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "babd62b3e14c428540193e368f49fb3752ae0650",
+      "size": 850,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/babd62b3e14c428540193e368f49fb3752ae0650"
+    },
+    {
+      "path": "chatrex/upn/configs/upn_large.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d22b76c22be1474669954a27eb6d173cbc22c8eb",
+      "size": 1892,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/d22b76c22be1474669954a27eb6d173cbc22c8eb"
+    },
+    {
+      "path": "chatrex/upn/inference_wrapper.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c16ee638179c1f0cc41010e936e91979ac396cfd",
+      "size": 9110,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/c16ee638179c1f0cc41010e936e91979ac396cfd"
+    },
+    {
+      "path": "chatrex/upn/models/architecture/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d13d41f89544e3354c30d6e64f5636784f1b747c",
+      "size": 129,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/d13d41f89544e3354c30d6e64f5636784f1b747c"
+    },
+    {
+      "path": "chatrex/upn/models/architecture/deformable_transformer.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "77d3b37e2ccb2f3b49c0c04c15439896e8d8faf8",
+      "size": 13801,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/77d3b37e2ccb2f3b49c0c04c15439896e8d8faf8"
+    },
+    {
+      "path": "chatrex/upn/models/architecture/upn_model.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9fb222c0e036fc9d588ad174b76074cfd41b975f",
+      "size": 12695,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/9fb222c0e036fc9d588ad174b76074cfd41b975f"
+    },
+    {
+      "path": "chatrex/upn/models/backbone/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e9aff777c6f0381797208d7ba60d7624553347e",
+      "size": 113,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/8e9aff777c6f0381797208d7ba60d7624553347e"
+    },
+    {
+      "path": "chatrex/upn/models/backbone/swin.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8aa27b2c8e2828630684f0de3acd73b752bae17b",
+      "size": 28172,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/8aa27b2c8e2828630684f0de3acd73b752bae17b"
+    },
+    {
+      "path": "chatrex/upn/models/backbone/wrapper.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "410bd45e518d51849fc624cbb4518aca010e5242",
+      "size": 9884,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/410bd45e518d51849fc624cbb4518aca010e5242"
+    },
+    {
+      "path": "chatrex/upn/models/decoder/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "96f11bd3cc1b089d0497c6ea2a5a613c9d2927c9",
+      "size": 134,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/96f11bd3cc1b089d0497c6ea2a5a613c9d2927c9"
+    },
+    {
+      "path": "chatrex/upn/models/decoder/upn_decoder.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dec0f174daddda10f3065300eef7edf40fee0a83",
+      "size": 16019,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/dec0f174daddda10f3065300eef7edf40fee0a83"
+    },
+    {
+      "path": "chatrex/upn/models/encoder/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "907595e2c853dbd041014a82efa800612644f8d3",
+      "size": 134,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/907595e2c853dbd041014a82efa800612644f8d3"
+    },
+    {
+      "path": "chatrex/upn/models/encoder/upn_encoder.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2c56d5dec94430f5365fba5d39eb78490380f78e",
+      "size": 11167,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/2c56d5dec94430f5365fba5d39eb78490380f78e"
+    },
+    {
+      "path": "chatrex/upn/models/module/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "03a4509a5f64f33feb9dfc9245e65a2a67e635a8",
+      "size": 226,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/03a4509a5f64f33feb9dfc9245e65a2a67e635a8"
+    },
+    {
+      "path": "chatrex/upn/models/module/contrastive.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7830f353738d2fd10c23e386cd2a42188b0373e4",
+      "size": 789,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/7830f353738d2fd10c23e386cd2a42188b0373e4"
+    },
+    {
+      "path": "chatrex/upn/models/module/mlp.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4b654715a33abc42df5b29aaa52cfeac2664941c",
+      "size": 605,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/4b654715a33abc42df5b29aaa52cfeac2664941c"
+    },
+    {
+      "path": "chatrex/upn/models/module/nested_tensor.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8655ebb23fae2003141e0933e3952ec979edeb65",
+      "size": 6763,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/8655ebb23fae2003141e0933e3952ec979edeb65"
+    },
+    {
+      "path": "chatrex/upn/models/utils/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "95de7a1bb95bfb5807691520e8a897cd3ac8d83e",
+      "size": 529,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/95de7a1bb95bfb5807691520e8a897cd3ac8d83e"
+    },
+    {
+      "path": "chatrex/upn/models/utils/detr_utils.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ec3596086fbb46e4bb827e2ecdeaaac88bbef10",
+      "size": 14326,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/3ec3596086fbb46e4bb827e2ecdeaaac88bbef10"
+    },
+    {
+      "path": "chatrex/upn/ops/functions/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8a2197bda3199aa32cafc5b9d396479609853dd2",
+      "size": 598,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/8a2197bda3199aa32cafc5b9d396479609853dd2"
+    },
+    {
+      "path": "chatrex/upn/ops/functions/ms_deform_attn_func.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8c5df8cf5d23aca963eec6c1133c180b37289607",
+      "size": 3298,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/8c5df8cf5d23aca963eec6c1133c180b37289607"
+    },
+    {
+      "path": "chatrex/upn/ops/modules/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f82cb1ad9d634a87b54ba6a71b58a230bcade5fe",
+      "size": 584,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/f82cb1ad9d634a87b54ba6a71b58a230bcade5fe"
+    },
+    {
+      "path": "chatrex/upn/ops/modules/ms_deform_attn.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c1f11139a25c2a8f59076088a6042bac03773941",
+      "size": 8330,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/c1f11139a25c2a8f59076088a6042bac03773941"
+    },
+    {
+      "path": "chatrex/upn/ops/modules/ms_deform_attn_key_aware.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "03c49029f1ed963a22a7e6d18b5eaa916dea0f36",
+      "size": 7015,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/03c49029f1ed963a22a7e6d18b5eaa916dea0f36"
+    },
+    {
+      "path": "chatrex/upn/ops/setup.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "049f9232ba48996518ccd76df4cf39c8ed14791e",
+      "size": 2596,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/049f9232ba48996518ccd76df4cf39c8ed14791e"
+    },
+    {
+      "path": "chatrex/upn/ops/src/cpu/ms_deform_attn_cpu.cpp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e1bf854de1f3860d20b6fef5c1a17817c268e70a",
+      "size": 1256,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/e1bf854de1f3860d20b6fef5c1a17817c268e70a"
+    },
+    {
+      "path": "chatrex/upn/ops/src/cpu/ms_deform_attn_cpu.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "81b7b58a3d9502bbb684dc84687a526dedf94cae",
+      "size": 1139,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/81b7b58a3d9502bbb684dc84687a526dedf94cae"
+    },
+    {
+      "path": "chatrex/upn/ops/src/cuda/ms_deform_attn_cuda.cu",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c89c609a7747c20046a522a979f3711762228bd4",
+      "size": 7614,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/c89c609a7747c20046a522a979f3711762228bd4"
+    },
+    {
+      "path": "chatrex/upn/ops/src/cuda/ms_deform_attn_cuda.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c7ae53f99c820ce6193b608ad344550348a0b42c",
+      "size": 1140,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/c7ae53f99c820ce6193b608ad344550348a0b42c"
+    },
+    {
+      "path": "chatrex/upn/ops/src/cuda/ms_deform_im2col_cuda.cuh",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6bc2acb7aea0eab2e9e91e769a16861e1652c284",
+      "size": 54694,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/6bc2acb7aea0eab2e9e91e769a16861e1652c284"
+    },
+    {
+      "path": "chatrex/upn/ops/src/ms_deform_attn.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "05e1806588ef6e06dbeca8a9bbf483dbecf56548",
+      "size": 1883,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/05e1806588ef6e06dbeca8a9bbf483dbecf56548"
+    },
+    {
+      "path": "chatrex/upn/ops/src/vision.cpp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2201f63a51dca16d0b31148ed2c9e8e47ec15bdc",
+      "size": 799,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/2201f63a51dca16d0b31148ed2c9e8e47ec15bdc"
+    },
+    {
+      "path": "chatrex/upn/ops/test.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8dbf6d5547d131f01a8c5c28b76557bd27a9334b",
+      "size": 4087,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/8dbf6d5547d131f01a8c5c28b76557bd27a9334b"
+    },
+    {
+      "path": "chatrex/upn/transforms/transform.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4bb5b11a70c1fe2ea1825d257ed9e121e8e17008",
+      "size": 4264,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/4bb5b11a70c1fe2ea1825d257ed9e121e8e17008"
+    },
+    {
+      "path": "chatrex/version.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e47bc94e95798311af8a2c4ece9e0138a0b4037b",
+      "size": 21,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/e47bc94e95798311af8a2c4ece9e0138a0b4037b"
+    },
+    {
+      "path": "data/CDFSOD/ArTaxOr/annotations/10_shot_converted.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f65402fce77a02bf607bfbbc458f30193ba92016",
+      "size": 14105,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/f65402fce77a02bf607bfbbc458f30193ba92016"
+    },
+    {
+      "path": "data/CDFSOD/ArTaxOr/annotations/1_shot_converted.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "33753800272fb7f9c6ca4cffa86939af3603b8c1",
+      "size": 1557,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/33753800272fb7f9c6ca4cffa86939af3603b8c1"
+    },
+    {
+      "path": "data/CDFSOD/ArTaxOr/annotations/5_shot_converted.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8987f8fb9261b5e030a599b7e902bedd46fed8c2",
+      "size": 7132,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/8987f8fb9261b5e030a599b7e902bedd46fed8c2"
+    },
+    {
+      "path": "data/CDFSOD/DIOR/annotations/10_shot_converted.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d3d80d8aed3c049410a09787ded440abae687fb5",
+      "size": 30651,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/d3d80d8aed3c049410a09787ded440abae687fb5"
+    },
+    {
+      "path": "data/CDFSOD/DIOR/annotations/1_shot_converted.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "38717b69e1a0a8192fd93751dc4ad4978593f410",
+      "size": 3471,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/38717b69e1a0a8192fd93751dc4ad4978593f410"
+    },
+    {
+      "path": "data/CDFSOD/DIOR/annotations/5_shot_converted.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "11adb3bd158ab305c9c1b6bfd928021a7517c6b8",
+      "size": 15555,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/11adb3bd158ab305c9c1b6bfd928021a7517c6b8"
+    },
+    {
+      "path": "data/CDFSOD/FISH/annotations/10_shot_converted.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3c91bcdfbc573eac9a5b7a2f8c40f1b7b7c1c2ab",
+      "size": 1684,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/3c91bcdfbc573eac9a5b7a2f8c40f1b7b7c1c2ab"
+    },
+    {
+      "path": "data/CDFSOD/FISH/annotations/1_shot_converted.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d1d82007e2d455cd4d4a323f38b2a3c110d6c81c",
+      "size": 192,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/d1d82007e2d455cd4d4a323f38b2a3c110d6c81c"
+    },
+    {
+      "path": "data/CDFSOD/FISH/annotations/5_shot_converted.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "afc092b8be2606377b637dca1a46ba812175ef07",
+      "size": 851,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/afc092b8be2606377b637dca1a46ba812175ef07"
+    },
+    {
+      "path": "data/CDFSOD/NEU-DET/annotations/10_shot_converted.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9762135865514c3fca0f6b3b75250b90b7943de3",
+      "size": 9163,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/9762135865514c3fca0f6b3b75250b90b7943de3"
+    },
+    {
+      "path": "data/CDFSOD/NEU-DET/annotations/1_shot_converted.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bc31d292ee008110479af54eace5e1713cb6ad87",
+      "size": 1039,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/bc31d292ee008110479af54eace5e1713cb6ad87"
+    },
+    {
+      "path": "data/CDFSOD/NEU-DET/annotations/5_shot_converted.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d8ad0cb270f197e4c2e00da0dd34d28c6e4e995e",
+      "size": 4646,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/d8ad0cb270f197e4c2e00da0dd34d28c6e4e995e"
+    },
+    {
+      "path": "data/CDFSOD/UODD/annotations/10_shot_converted.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cdc62f9d09db0ebcc26b417cbb1556cac2d7257c",
+      "size": 4047,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/cdc62f9d09db0ebcc26b417cbb1556cac2d7257c"
+    },
+    {
+      "path": "data/CDFSOD/UODD/annotations/1_shot_converted.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8fe71e6cab7c5449c071a8a227b7922102606dc8",
+      "size": 464,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/8fe71e6cab7c5449c071a8a227b7922102606dc8"
+    },
+    {
+      "path": "data/CDFSOD/UODD/annotations/5_shot_converted.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "457e392fb15a8785a2dba6e6da20e1a178de3729",
+      "size": 2056,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/457e392fb15a8785a2dba6e6da20e1a178de3729"
+    },
+    {
+      "path": "data/CDFSOD/clipart1k/annotations/10_shot_converted.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9f6746f5a8b38e3516a4afe6a8f8a4670ff63f95",
+      "size": 29733,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/9f6746f5a8b38e3516a4afe6a8f8a4670ff63f95"
+    },
+    {
+      "path": "data/CDFSOD/clipart1k/annotations/1_shot_converted.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cb16d5e350a36914963e82d35434104273087e42",
+      "size": 3341,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/cb16d5e350a36914963e82d35434104273087e42"
+    },
+    {
+      "path": "data/CDFSOD/clipart1k/annotations/5_shot_converted.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b950be5d51a58bca8fd5aad2561a82683730bbb9",
+      "size": 15263,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/b950be5d51a58bca8fd5aad2561a82683730bbb9"
+    },
+    {
+      "path": "fsod.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e163628ead944ba3502f691b162da4fb57cd94a1",
+      "size": 8590,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/e163628ead944ba3502f691b162da4fb57cd94a1"
+    },
+    {
+      "path": "main.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "42ffdb0a005c569bde66993738514af69594b765",
+      "size": 8096,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/42ffdb0a005c569bde66993738514af69594b765"
+    },
+    {
+      "path": "metric.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "099bcb7f81be0cfd4292f5ad5825d5273b089e23",
+      "size": 20976,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/099bcb7f81be0cfd4292f5ad5825d5273b089e23"
+    },
+    {
+      "path": "model/dinov2.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b60e4b8e0a8a7febe6a400d45b937405d799c513",
+      "size": 3267,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/b60e4b8e0a8a7febe6a400d45b937405d799c513"
+    },
+    {
+      "path": "model/radio.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c6e9c5401be36b32a43cc0927897c4bb75aff3d3",
+      "size": 3874,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/c6e9c5401be36b32a43cc0927897c4bb75aff3d3"
+    },
+    {
+      "path": "model/sam2.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f3377c08507d883906fbfe0ef1ee9ac2ea1a9284",
+      "size": 1576,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/f3377c08507d883906fbfe0ef1ee9ac2ea1a9284"
+    },
+    {
+      "path": "query_util.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16b3188c0687da219649f2ccec1baab97f90f1e9",
+      "size": 3091,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/16b3188c0687da219649f2ccec1baab97f90f1e9"
+    },
+    {
+      "path": "run_scripts/run_cdfsod.sh",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "25a807f628eabab92ae346455fca87d7d8455fff",
+      "size": 443,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/25a807f628eabab92ae346455fca87d7d8455fff"
+    },
+    {
+      "path": "run_scripts/run_cdfsod_radio.sh",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dd41b42b7e1708fc7c1897acd6068f4474dcf90c",
+      "size": 417,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/dd41b42b7e1708fc7c1897acd6068f4474dcf90c"
+    },
+    {
+      "path": "run_scripts/run_coco.sh",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "efe9b067b9db741ef124ae654443ae80603eb8ca",
+      "size": 600,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/efe9b067b9db741ef124ae654443ae80603eb8ca"
+    },
+    {
+      "path": "run_scripts/run_coco_radio.sh",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a6ac41f5672ff4a4de60be8b1623b406d68b9df9",
+      "size": 574,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/a6ac41f5672ff4a4de60be8b1623b406d68b9df9"
+    },
+    {
+      "path": "run_scripts/run_pascal.sh",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "474a5b83b2aaaf9910981a0bec024e76c974d130",
+      "size": 682,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/474a5b83b2aaaf9910981a0bec024e76c974d130"
+    },
+    {
+      "path": "run_scripts/run_pascal_radio.sh",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b7f0fe99ec39910a35ea5fd05d3f9d1e873f74fa",
+      "size": 656,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/b7f0fe99ec39910a35ea5fd05d3f9d1e873f74fa"
+    },
+    {
+      "path": "support_util.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8fd506bf6e7a823efce00ec58abd3496792a5482",
+      "size": 6902,
+      "url": "https://api.github.com/repos/Intellindust-AI-Lab/FSOD-VFM/git/blobs/8fd506bf6e7a823efce00ec58abd3496792a5482"
+    }
+  ]
+}

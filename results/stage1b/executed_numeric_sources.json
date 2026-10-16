@@ -1,0 +1,8 @@
+{
+  "scripts/diagnose_stage1b.py": "cddab1589ab4415f2f08ab4a369ab10ce73ecb3fab6f7dbaac0984391755b13a",
+  "fsod_experiments/diagnostics.py": "af8d839a702fabe7866f9167af2539ed5d78917f2dc372868a77bd6a9168c151",
+  "fsod_experiments/adaptation.py": "273d7ac844756bb8a36857e6b6b1cd128813e60581941733fd0dd8a5766b4b61",
+  "fsod_experiments/cached_detection.py": "472917af9196176eb5489146a8c5b5adc082d3d1bc1936bec78ce42aaaee3186",
+  "scripts/recompute_controls_stage1b.py": "dbab13434231ba8dc9484237435976f70318d15241abf6da4f84a1aa5ec4c2ab",
+  "scripts/check_nonidentity_stage1b.py": "a47160c81bb95155a2d4f3e14b32ab80aaff728ddb86acd0233927c7aa2e50a6"
+}
