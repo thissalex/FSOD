@@ -1,0 +1,32 @@
+{
+  "status": "completed",
+  "domain": "clipart1k",
+  "baseline_commit": "6da781bf02046fe6f70530e1d5483abd9aef6c9c",
+  "configuration": "prespecified pilot lambda=10 mu=1, not parameter-selected",
+  "near_duplicate_review": "exact RGB duplicates grouped; perceptual review pending",
+  "evaluations": 24,
+  "elapsed_seconds": 418.1179973750841,
+  "peak_memory_gb": 5.112793922424316,
+  "identity": {
+    "baseline_commit": "6da781bf02046fe6f70530e1d5483abd9aef6c9c",
+    "runner_sha256": "cd3a3b82229415965a7f050e3c6f5aa33e5d0d327cb9b9ca2298311913ef034c",
+    "capture_sha256": "472917af9196176eb5489146a8c5b5adc082d3d1bc1936bec78ce42aaaee3186",
+    "math_sha256": "273d7ac844756bb8a36857e6b6b1cd128813e60581941733fd0dd8a5766b4b61",
+    "views_sha256": "4cfa5d51b5d101415cb4a65452bdacd0c118a3418398ea3783e57e5a4c37b18e",
+    "weights": {
+      "dinov2_vitl14_pretrain.pth": "d5383ea8f4877b2472eb973e0fd72d557c7da5d3611bd527ceeb1d7162cbf428",
+      "sam2.1_hiera_large.pt": "2647878d5dfa5098f2f8649825738a9345572bae2d4350a2468587ece47dd318",
+      "upn_large.pth": "e0714728a94b471d5e3a6794860f300c5ff53afe9035c8c012543f12eaf41864"
+    },
+    "image_size": 630,
+    "precision": "official_fp32",
+    "proposal_threshold": 0.01,
+    "max_proposals": 100,
+    "diffusion_steps": 30,
+    "graph_alpha": 0.3,
+    "graph_decay": 0.5
+  },
+  "query_cache_key": "2aaeb23cf70a742b89049918c8a85b6ae76c273800199b39ed2b80bfa27d0924",
+  "pixel_guard_repair": "completed",
+  "core_source_after_repair": "39eb363e8b3e008986581b5793837d7b96a2f36eeaf6da381d58a51c37f7029f"
+}

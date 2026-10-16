@@ -1,0 +1,16 @@
+[
+  {
+    "domain": "NEU-DET",
+    "images": 10,
+    "ground_truth_color": "green",
+    "prediction_color": "red",
+    "predictions_displayed": "top 5 per image"
+  },
+  {
+    "domain": "clipart1k",
+    "images": 10,
+    "ground_truth_color": "green",
+    "prediction_color": "red",
+    "predictions_displayed": "top 5 per image"
+  }
+]

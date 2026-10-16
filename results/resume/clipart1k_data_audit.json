@@ -1,0 +1,34 @@
+{
+  "train": {
+    "images": 500,
+    "instances": 1639,
+    "dimensions_mismatch": [
+      {
+        "image": "681633840.jpg",
+        "declared": [
+          600,
+          594
+        ],
+        "actual": [
+          300,
+          213
+        ]
+      }
+    ],
+    "invalid_declared_boxes": [],
+    "exact_duplicate_groups": []
+  },
+  "test": {
+    "images": 500,
+    "instances": 1526,
+    "dimensions_mismatch": [],
+    "invalid_declared_boxes": [],
+    "exact_duplicate_groups": [
+      [
+        "443723348.jpg",
+        "549301096.jpg"
+      ]
+    ]
+  },
+  "cross_split_duplicate_files": []
+}

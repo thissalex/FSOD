@@ -1,0 +1,32 @@
+[
+  {
+    "file": "ArTaxOr.tar.gz",
+    "bytes": 11925261350,
+    "sha256": "4a1cbbcaf730af677e363ea334838af262e48cef8b90db42a654886c83987492"
+  },
+  {
+    "file": "DIOR.tar.gz",
+    "bytes": 7408698846,
+    "sha256": "b7e390da7ea9c03cb60d63770e78de442abdf0656f8b75fccf19416756e0415f"
+  },
+  {
+    "file": "FISH.tar.gz",
+    "bytes": 761948029,
+    "sha256": "714ed9b731efab05ddfb4bd3b73127b67ebcb2a3a5f7efa07f66f314b9ad6094"
+  },
+  {
+    "file": "NEU-DET.tar.gz",
+    "bytes": 25943568,
+    "sha256": "591cadc70f93d97491daad22a291dac9094dd8bbe7e2cc0480a902aaf20a3367"
+  },
+  {
+    "file": "UODD.tar.gz",
+    "bytes": 95472511,
+    "sha256": "269c49a62451aae755efae708735a8dd56ab84f2ed56b85e55e65dc47e493175"
+  },
+  {
+    "file": "clipart1k.tar.gz",
+    "bytes": 48204952,
+    "sha256": "0902544a9c50e3883182f231ce686852ac1f22317c8f30f4d0380f1a9678ff9a"
+  }
+]

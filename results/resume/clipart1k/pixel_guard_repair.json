@@ -1,0 +1,53 @@
+{
+  "status": "completed",
+  "affected_support_sets": [
+    [
+      5,
+      1
+    ],
+    [
+      1,
+      1
+    ]
+  ],
+  "repairs": [
+    {
+      "instance_id": 1343,
+      "old_key": "0dae2aa8184e39821e450271da78ec7a028b0571e9f6b6fcf1516598ed7ebb2a",
+      "new_key": "2f46387f94c6c466912d237c8cda656f495ff34130e1aad438ab2d56ecaecf0e",
+      "old_target_max_delta": 0.01750701665878296,
+      "new_target_max_delta": 0.0,
+      "guard_pixels": 1,
+      "original_feature_max_abs_error": 0.0
+    },
+    {
+      "instance_id": 2324,
+      "old_key": "abe87681730adfdfaca1d1f94bdd14070491cb3478e2558784db8bd79c45bcfc",
+      "new_key": "cf67fc31b420617547eea69a1e50c5f5411330851c5e7b28fdec64a36edb6cbd",
+      "old_target_max_delta": 0.08753538131713867,
+      "new_target_max_delta": 0.0,
+      "guard_pixels": 1,
+      "original_feature_max_abs_error": 0.0
+    },
+    {
+      "instance_id": 2518,
+      "old_key": "6dfa671f99a8a71a8d5f0b39dbc1e8f73c12434844fd4babe338b79ac7f04e79",
+      "new_key": "eb42d9439ef8b7b890ff84d9fd353fdc1af8411e66cf342f9390c0fcd1873929",
+      "old_target_max_delta": 0.017507076263427734,
+      "new_target_max_delta": 0.0,
+      "guard_pixels": 1,
+      "original_feature_max_abs_error": 0.0
+    },
+    {
+      "instance_id": 1975,
+      "old_key": "b71c2e03230451278572eeaa875a47514d580d0ff7cc9ee63eefb278bb294b63",
+      "new_key": "71f297c22aa0697e2c14a4a42431fdc04ad964a9a589c742fe56e04f12f64cd7",
+      "old_target_max_delta": 0.01750701665878296,
+      "new_target_max_delta": 0.0,
+      "guard_pixels": 1,
+      "original_feature_max_abs_error": 0.0
+    }
+  ],
+  "selection_rule": "Pixel equality only; no AP/feature-driven guard choice",
+  "query_cache_unchanged": "2aaeb23cf70a742b89049918c8a85b6ae76c273800199b39ed2b80bfa27d0924"
+}

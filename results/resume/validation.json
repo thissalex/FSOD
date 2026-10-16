@@ -1,0 +1,35 @@
+{
+  "NEU-DET": {
+    "core_evaluations": 24,
+    "grid_configurations_with_support_seeds": 30,
+    "checked_support_instance_appearances": 108,
+    "all_target_input_pixels_equal": true,
+    "cache_parity": {
+      "detections": 27886,
+      "max_score_error": 2.384185791015625e-07,
+      "tolerance": 2e-05,
+      "passed": true
+    }
+  },
+  "clipart1k": {
+    "core_evaluations": 24,
+    "grid_configurations_with_support_seeds": 30,
+    "checked_support_instance_appearances": 360,
+    "all_target_input_pixels_equal": true,
+    "cache_parity": {
+      "detections": 10000,
+      "max_score_error": 1.7881393432617188e-07,
+      "tolerance": 2e-05,
+      "passed": true
+    }
+  },
+  "upstream_files_unchanged": 73,
+  "tests": {
+    "exit_code": 0,
+    "stdout": "...................                                                      [100%]\n19 passed in 6.85s"
+  },
+  "dependencies": {
+    "exit_code": 0,
+    "stdout": "No broken requirements found."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "completed",
+  "affected_support_sets": [
+    [
+      1,
+      2
+    ]
+  ],
+  "repairs": [
+    {
+      "instance_id": 802,
+      "old_key": "778cc2e02fa5818e68eaca08027143e609968cf958dd8815ea4ebf15062da232",
+      "new_key": "fa37d4d87c8fe6a82a87d4d95fdae8981869891360db548ed71e7f24b618ef97",
+      "old_target_max_delta": 0.03501403331756592,
+      "new_target_max_delta": 0.0,
+      "guard_pixels": 1,
+      "original_feature_max_abs_error": 0.0
+    }
+  ],
+  "selection_rule": "Pixel equality only; no AP/feature-driven guard choice",
+  "query_cache_unchanged": "ad5dd34bd59e35adb16360a1ae73f95bf7d89303f48756a946bfa51218f508a2"
+}

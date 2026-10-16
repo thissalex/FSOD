@@ -1,0 +1,654 @@
+[
+  {
+    "domain": "NEU-DET",
+    "query_cache_key": "ad5dd34bd59e35adb16360a1ae73f95bf7d89303f48756a946bfa51218f508a2",
+    "gt_instances": 682,
+    "fixed_candidate_recalled_at_iou50": 376,
+    "candidate_recall50": 0.5513196480938416,
+    "observations": [
+      {
+        "category": "crazing",
+        "support_seed": 0,
+        "support_mean_drift": 0.04925067106391733,
+        "query_max_iou_recalled_instances": 13,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.05733775175534762
+      },
+      {
+        "category": "inclusion",
+        "support_seed": 0,
+        "support_mean_drift": 0.07767975100896143,
+        "query_max_iou_recalled_instances": 128,
+        "classification_error_rate": 0.21875,
+        "mean_class_margin": 0.06870445189997554
+      },
+      {
+        "category": "patches",
+        "support_seed": 0,
+        "support_mean_drift": 0.08045368550026281,
+        "query_max_iou_recalled_instances": 71,
+        "classification_error_rate": 0.028169014084507043,
+        "mean_class_margin": 0.07201429991654947
+      },
+      {
+        "category": "pitted_surface",
+        "support_seed": 0,
+        "support_mean_drift": 0.046575689319671265,
+        "query_max_iou_recalled_instances": 65,
+        "classification_error_rate": 0.09230769230769231,
+        "mean_class_margin": 0.03320048772371732
+      },
+      {
+        "category": "rolled-in_scale",
+        "support_seed": 0,
+        "support_mean_drift": 0.05599192307459995,
+        "query_max_iou_recalled_instances": 22,
+        "classification_error_rate": 0.09090909090909091,
+        "mean_class_margin": 0.07119799202138727
+      },
+      {
+        "category": "scratches",
+        "support_seed": 0,
+        "support_mean_drift": 0.14810242646656996,
+        "query_max_iou_recalled_instances": 77,
+        "classification_error_rate": 0.1038961038961039,
+        "mean_class_margin": 0.07007437479960454
+      },
+      {
+        "category": "crazing",
+        "support_seed": 1,
+        "support_mean_drift": 0.04733702723860374,
+        "query_max_iou_recalled_instances": 13,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.07467807714755718
+      },
+      {
+        "category": "inclusion",
+        "support_seed": 1,
+        "support_mean_drift": 0.12868081734972042,
+        "query_max_iou_recalled_instances": 128,
+        "classification_error_rate": 0.15625,
+        "mean_class_margin": 0.06689290795475245
+      },
+      {
+        "category": "patches",
+        "support_seed": 1,
+        "support_mean_drift": 0.08496292651448285,
+        "query_max_iou_recalled_instances": 71,
+        "classification_error_rate": 0.014084507042253521,
+        "mean_class_margin": 0.09154948802061484
+      },
+      {
+        "category": "pitted_surface",
+        "support_seed": 1,
+        "support_mean_drift": 0.049413124404384876,
+        "query_max_iou_recalled_instances": 65,
+        "classification_error_rate": 0.35384615384615387,
+        "mean_class_margin": 0.018067324161529542
+      },
+      {
+        "category": "rolled-in_scale",
+        "support_seed": 1,
+        "support_mean_drift": 0.1057004999662772,
+        "query_max_iou_recalled_instances": 22,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.10985207015817816
+      },
+      {
+        "category": "scratches",
+        "support_seed": 1,
+        "support_mean_drift": 0.13940401017113604,
+        "query_max_iou_recalled_instances": 77,
+        "classification_error_rate": 0.22077922077922077,
+        "mean_class_margin": 0.06139057061888955
+      },
+      {
+        "category": "crazing",
+        "support_seed": 2,
+        "support_mean_drift": 0.06080340414652814,
+        "query_max_iou_recalled_instances": 13,
+        "classification_error_rate": 0.23076923076923078,
+        "mean_class_margin": 0.020900519994588997
+      },
+      {
+        "category": "inclusion",
+        "support_seed": 2,
+        "support_mean_drift": 0.17903707609572034,
+        "query_max_iou_recalled_instances": 128,
+        "classification_error_rate": 0.28125,
+        "mean_class_margin": 0.05732694733887911
+      },
+      {
+        "category": "patches",
+        "support_seed": 2,
+        "support_mean_drift": 0.0727917040547528,
+        "query_max_iou_recalled_instances": 71,
+        "classification_error_rate": 0.04225352112676056,
+        "mean_class_margin": 0.09007141875549102
+      },
+      {
+        "category": "pitted_surface",
+        "support_seed": 2,
+        "support_mean_drift": 0.0692451960285397,
+        "query_max_iou_recalled_instances": 65,
+        "classification_error_rate": 0.09230769230769231,
+        "mean_class_margin": 0.036894415892087494
+      },
+      {
+        "category": "rolled-in_scale",
+        "support_seed": 2,
+        "support_mean_drift": 0.09576675015389528,
+        "query_max_iou_recalled_instances": 22,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.09244132041931152
+      },
+      {
+        "category": "scratches",
+        "support_seed": 2,
+        "support_mean_drift": 0.11346580798196196,
+        "query_max_iou_recalled_instances": 77,
+        "classification_error_rate": 0.1038961038961039,
+        "mean_class_margin": 0.06265134393394768
+      }
+    ],
+    "within_category_demeaned_spearman": {
+      "drift_vs_error_rate": 0.018623962976988994,
+      "drift_vs_margin": 0.12899896800825592
+    },
+    "interpretation": "Descriptive only: three correlated support-set runs; no significance or causal claim"
+  },
+  {
+    "domain": "clipart1k",
+    "query_cache_key": "2aaeb23cf70a742b89049918c8a85b6ae76c273800199b39ed2b80bfa27d0924",
+    "gt_instances": 352,
+    "fixed_candidate_recalled_at_iou50": 351,
+    "candidate_recall50": 0.9971590909090909,
+    "observations": [
+      {
+        "category": "aeroplane",
+        "support_seed": 0,
+        "support_mean_drift": 0.0367338529814911,
+        "query_max_iou_recalled_instances": 8,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.4239612892270088
+      },
+      {
+        "category": "bicycle",
+        "support_seed": 0,
+        "support_mean_drift": 0.010817792478257444,
+        "query_max_iou_recalled_instances": 9,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.19267267651028103
+      },
+      {
+        "category": "bird",
+        "support_seed": 0,
+        "support_mean_drift": 0.056362673856746814,
+        "query_max_iou_recalled_instances": 29,
+        "classification_error_rate": 0.13793103448275862,
+        "mean_class_margin": 0.08243909067121045
+      },
+      {
+        "category": "boat",
+        "support_seed": 0,
+        "support_mean_drift": 0.012498977284191476,
+        "query_max_iou_recalled_instances": 15,
+        "classification_error_rate": 0.2,
+        "mean_class_margin": 0.174521803855896
+      },
+      {
+        "category": "bottle",
+        "support_seed": 0,
+        "support_mean_drift": 0.07514115522760126,
+        "query_max_iou_recalled_instances": 10,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.25273218750953674
+      },
+      {
+        "category": "bus",
+        "support_seed": 0,
+        "support_mean_drift": 0.004652138212615087,
+        "query_max_iou_recalled_instances": 1,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.18514704704284668
+      },
+      {
+        "category": "car",
+        "support_seed": 0,
+        "support_mean_drift": 0.03627713303474679,
+        "query_max_iou_recalled_instances": 16,
+        "classification_error_rate": 0.25,
+        "mean_class_margin": 0.053002506494522095
+      },
+      {
+        "category": "cat",
+        "support_seed": 0,
+        "support_mean_drift": 0.020759912326973124,
+        "query_max_iou_recalled_instances": 4,
+        "classification_error_rate": 0.5,
+        "mean_class_margin": 0.025376416742801666
+      },
+      {
+        "category": "chair",
+        "support_seed": 0,
+        "support_mean_drift": 0.02225036084917359,
+        "query_max_iou_recalled_instances": 51,
+        "classification_error_rate": 0.0392156862745098,
+        "mean_class_margin": 0.10490930021977891
+      },
+      {
+        "category": "cow",
+        "support_seed": 0,
+        "support_mean_drift": 0.006903873791438903,
+        "query_max_iou_recalled_instances": 5,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.14292452335357667
+      },
+      {
+        "category": "diningtable",
+        "support_seed": 0,
+        "support_mean_drift": 0.032247641893888,
+        "query_max_iou_recalled_instances": 16,
+        "classification_error_rate": 0.0625,
+        "mean_class_margin": 0.13624686747789383
+      },
+      {
+        "category": "dog",
+        "support_seed": 0,
+        "support_mean_drift": 0.016013835648660497,
+        "query_max_iou_recalled_instances": 7,
+        "classification_error_rate": 0.42857142857142855,
+        "mean_class_margin": 0.04015942130770002
+      },
+      {
+        "category": "horse",
+        "support_seed": 0,
+        "support_mean_drift": 0.04617075815600243,
+        "query_max_iou_recalled_instances": 3,
+        "classification_error_rate": 0.3333333333333333,
+        "mean_class_margin": 0.021452824274698894
+      },
+      {
+        "category": "motorbike",
+        "support_seed": 0,
+        "support_mean_drift": 0.0003325704024767451,
+        "query_max_iou_recalled_instances": 1,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.10542738437652588
+      },
+      {
+        "category": "person",
+        "support_seed": 0,
+        "support_mean_drift": 0.02607757679765279,
+        "query_max_iou_recalled_instances": 127,
+        "classification_error_rate": 0.03937007874015748,
+        "mean_class_margin": 0.1451144096419567
+      },
+      {
+        "category": "pottedplant",
+        "support_seed": 0,
+        "support_mean_drift": 0.02829279321903868,
+        "query_max_iou_recalled_instances": 17,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.2472895068280837
+      },
+      {
+        "category": "sheep",
+        "support_seed": 0,
+        "support_mean_drift": 0.04641032908813448,
+        "query_max_iou_recalled_instances": 7,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.09042181287493024
+      },
+      {
+        "category": "sofa",
+        "support_seed": 0,
+        "support_mean_drift": 0.015908370712414226,
+        "query_max_iou_recalled_instances": 8,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.19533522427082062
+      },
+      {
+        "category": "train",
+        "support_seed": 0,
+        "support_mean_drift": 0.0016528175151106772,
+        "query_max_iou_recalled_instances": 4,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.1402694433927536
+      },
+      {
+        "category": "tvmonitor",
+        "support_seed": 0,
+        "support_mean_drift": 0.022644621130345634,
+        "query_max_iou_recalled_instances": 13,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.2758013101724478
+      },
+      {
+        "category": "aeroplane",
+        "support_seed": 1,
+        "support_mean_drift": 0.014345800006450981,
+        "query_max_iou_recalled_instances": 8,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.4259483478963375
+      },
+      {
+        "category": "bicycle",
+        "support_seed": 1,
+        "support_mean_drift": 0.010895648397141444,
+        "query_max_iou_recalled_instances": 9,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.18453526165750292
+      },
+      {
+        "category": "bird",
+        "support_seed": 1,
+        "support_mean_drift": 0.025459276488850234,
+        "query_max_iou_recalled_instances": 29,
+        "classification_error_rate": 0.13793103448275862,
+        "mean_class_margin": 0.07923254267922764
+      },
+      {
+        "category": "boat",
+        "support_seed": 1,
+        "support_mean_drift": 0.018167113873004754,
+        "query_max_iou_recalled_instances": 15,
+        "classification_error_rate": 0.2,
+        "mean_class_margin": 0.13801424105962118
+      },
+      {
+        "category": "bottle",
+        "support_seed": 1,
+        "support_mean_drift": 0.058707652611550885,
+        "query_max_iou_recalled_instances": 10,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.28169268667697905
+      },
+      {
+        "category": "bus",
+        "support_seed": 1,
+        "support_mean_drift": 0.0052278907037710985,
+        "query_max_iou_recalled_instances": 1,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.14967602491378784
+      },
+      {
+        "category": "car",
+        "support_seed": 1,
+        "support_mean_drift": 0.03753380227581039,
+        "query_max_iou_recalled_instances": 16,
+        "classification_error_rate": 0.0625,
+        "mean_class_margin": 0.11634830944240093
+      },
+      {
+        "category": "cat",
+        "support_seed": 1,
+        "support_mean_drift": 0.029676865234451753,
+        "query_max_iou_recalled_instances": 4,
+        "classification_error_rate": 0.5,
+        "mean_class_margin": 0.055633485317230225
+      },
+      {
+        "category": "chair",
+        "support_seed": 1,
+        "support_mean_drift": 0.0354224122811249,
+        "query_max_iou_recalled_instances": 51,
+        "classification_error_rate": 0.0784313725490196,
+        "mean_class_margin": 0.1654651194226508
+      },
+      {
+        "category": "cow",
+        "support_seed": 1,
+        "support_mean_drift": 0.02687477485857988,
+        "query_max_iou_recalled_instances": 5,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.12537821531295776
+      },
+      {
+        "category": "diningtable",
+        "support_seed": 1,
+        "support_mean_drift": 0.03906742494137901,
+        "query_max_iou_recalled_instances": 16,
+        "classification_error_rate": 0.0625,
+        "mean_class_margin": 0.14284994825720787
+      },
+      {
+        "category": "dog",
+        "support_seed": 1,
+        "support_mean_drift": 0.011830615097277569,
+        "query_max_iou_recalled_instances": 7,
+        "classification_error_rate": 0.14285714285714285,
+        "mean_class_margin": 0.058029762336186
+      },
+      {
+        "category": "horse",
+        "support_seed": 1,
+        "support_mean_drift": 0.01185507511430232,
+        "query_max_iou_recalled_instances": 3,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.0894152323404948
+      },
+      {
+        "category": "motorbike",
+        "support_seed": 1,
+        "support_mean_drift": 0.0003624805091412164,
+        "query_max_iou_recalled_instances": 1,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.0987291932106018
+      },
+      {
+        "category": "person",
+        "support_seed": 1,
+        "support_mean_drift": 0.027030618561267306,
+        "query_max_iou_recalled_instances": 127,
+        "classification_error_rate": 0.015748031496062992,
+        "mean_class_margin": 0.1547643126934532
+      },
+      {
+        "category": "pottedplant",
+        "support_seed": 1,
+        "support_mean_drift": 0.05487800825525806,
+        "query_max_iou_recalled_instances": 17,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.29299377167926116
+      },
+      {
+        "category": "sheep",
+        "support_seed": 1,
+        "support_mean_drift": 0.044899623508998746,
+        "query_max_iou_recalled_instances": 7,
+        "classification_error_rate": 0.5714285714285714,
+        "mean_class_margin": 0.010501291070665632
+      },
+      {
+        "category": "sofa",
+        "support_seed": 1,
+        "support_mean_drift": 0.005285686326918104,
+        "query_max_iou_recalled_instances": 8,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.31837888062000275
+      },
+      {
+        "category": "train",
+        "support_seed": 1,
+        "support_mean_drift": 0.001031017865685202,
+        "query_max_iou_recalled_instances": 4,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.1943591684103012
+      },
+      {
+        "category": "tvmonitor",
+        "support_seed": 1,
+        "support_mean_drift": 0.022679204567637296,
+        "query_max_iou_recalled_instances": 13,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.32482034197220433
+      },
+      {
+        "category": "aeroplane",
+        "support_seed": 2,
+        "support_mean_drift": 0.04023524229407473,
+        "query_max_iou_recalled_instances": 8,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.3657784126698971
+      },
+      {
+        "category": "bicycle",
+        "support_seed": 2,
+        "support_mean_drift": 0.023219507960294466,
+        "query_max_iou_recalled_instances": 9,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.18078350358539158
+      },
+      {
+        "category": "bird",
+        "support_seed": 2,
+        "support_mean_drift": 0.09905009549557528,
+        "query_max_iou_recalled_instances": 29,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.10863103434957307
+      },
+      {
+        "category": "boat",
+        "support_seed": 2,
+        "support_mean_drift": 0.013117098813309164,
+        "query_max_iou_recalled_instances": 15,
+        "classification_error_rate": 0.2,
+        "mean_class_margin": 0.16607848604520162
+      },
+      {
+        "category": "bottle",
+        "support_seed": 2,
+        "support_mean_drift": 0.0418936416783084,
+        "query_max_iou_recalled_instances": 10,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.2785443067550659
+      },
+      {
+        "category": "bus",
+        "support_seed": 2,
+        "support_mean_drift": 0.008476434385448572,
+        "query_max_iou_recalled_instances": 1,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.10396432876586914
+      },
+      {
+        "category": "car",
+        "support_seed": 2,
+        "support_mean_drift": 0.028826850816018185,
+        "query_max_iou_recalled_instances": 16,
+        "classification_error_rate": 0.125,
+        "mean_class_margin": 0.14227336458861828
+      },
+      {
+        "category": "cat",
+        "support_seed": 2,
+        "support_mean_drift": 0.018691280933676162,
+        "query_max_iou_recalled_instances": 4,
+        "classification_error_rate": 0.25,
+        "mean_class_margin": 0.032413333654403687
+      },
+      {
+        "category": "chair",
+        "support_seed": 2,
+        "support_mean_drift": 0.026235387674090293,
+        "query_max_iou_recalled_instances": 51,
+        "classification_error_rate": 0.0392156862745098,
+        "mean_class_margin": 0.11993845596032984
+      },
+      {
+        "category": "cow",
+        "support_seed": 2,
+        "support_mean_drift": 0.018731470911799462,
+        "query_max_iou_recalled_instances": 5,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.16311361789703369
+      },
+      {
+        "category": "diningtable",
+        "support_seed": 2,
+        "support_mean_drift": 0.018721329623545734,
+        "query_max_iou_recalled_instances": 16,
+        "classification_error_rate": 0.0625,
+        "mean_class_margin": 0.14723346754908562
+      },
+      {
+        "category": "dog",
+        "support_seed": 2,
+        "support_mean_drift": 0.013094762475461041,
+        "query_max_iou_recalled_instances": 7,
+        "classification_error_rate": 0.2857142857142857,
+        "mean_class_margin": 0.012280992099217005
+      },
+      {
+        "category": "horse",
+        "support_seed": 2,
+        "support_mean_drift": 0.016052211889911062,
+        "query_max_iou_recalled_instances": 3,
+        "classification_error_rate": 0.3333333333333333,
+        "mean_class_margin": 0.02143096923828125
+      },
+      {
+        "category": "motorbike",
+        "support_seed": 2,
+        "support_mean_drift": 8.885921747707193e-05,
+        "query_max_iou_recalled_instances": 1,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.12140965461730957
+      },
+      {
+        "category": "person",
+        "support_seed": 2,
+        "support_mean_drift": 0.016283587645471876,
+        "query_max_iou_recalled_instances": 127,
+        "classification_error_rate": 0.03937007874015748,
+        "mean_class_margin": 0.13567394088572404
+      },
+      {
+        "category": "pottedplant",
+        "support_seed": 2,
+        "support_mean_drift": 0.020556425320836135,
+        "query_max_iou_recalled_instances": 17,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.290519035914365
+      },
+      {
+        "category": "sheep",
+        "support_seed": 2,
+        "support_mean_drift": 0.05294720400287871,
+        "query_max_iou_recalled_instances": 7,
+        "classification_error_rate": 0.42857142857142855,
+        "mean_class_margin": 0.014528742858341761
+      },
+      {
+        "category": "sofa",
+        "support_seed": 2,
+        "support_mean_drift": 0.010094656943656338,
+        "query_max_iou_recalled_instances": 8,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.23105169087648392
+      },
+      {
+        "category": "train",
+        "support_seed": 2,
+        "support_mean_drift": 0.0007635352259656892,
+        "query_max_iou_recalled_instances": 4,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.1923193782567978
+      },
+      {
+        "category": "tvmonitor",
+        "support_seed": 2,
+        "support_mean_drift": 0.025164354312592608,
+        "query_max_iou_recalled_instances": 13,
+        "classification_error_rate": 0.0,
+        "mean_class_margin": 0.2992161397750561
+      }
+    ],
+    "within_category_demeaned_spearman": {
+      "drift_vs_error_rate": 0.09985114297794041,
+      "drift_vs_margin": -0.13170325090302865
+    },
+    "interpretation": "Descriptive only: three correlated support-set runs; no significance or causal claim"
+  }
+]

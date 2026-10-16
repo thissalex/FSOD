@@ -1,0 +1,2307 @@
+[
+  {
+    "shot": 5,
+    "seed": 0,
+    "instances": [
+      {
+        "category": "crazing",
+        "instance_id": 3864,
+        "cache_key": "82396e6c52e552f17bbac9c2d4f60ae4a99b59e4d07cad4172c44f36696ea0d7",
+        "cosine_drift": [
+          -1.1102230246251565e-15,
+          0.0631775076853216,
+          0.06987380474948968,
+          0.026618356365942786,
+          0.018822648850460144
+        ],
+        "repeat_noise": -1.1102230246251565e-15,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.7294
+      },
+      {
+        "category": "crazing",
+        "instance_id": 1637,
+        "cache_key": "1a0edce145070a63ad4b9ef2b51f0001ba526ecc7e003a5fc9e020f81b4ffedd",
+        "cosine_drift": [
+          -2.220446049250313e-16,
+          0.07070393442103506,
+          0.08476864620417657,
+          0.03564252499045284,
+          0.025338975458322532
+        ],
+        "repeat_noise": -2.220446049250313e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.621225
+      },
+      {
+        "category": "crazing",
+        "instance_id": 3540,
+        "cache_key": "f4793a84e994c30b61a89c68525338fe99a1f3c67ab0fcee0192361abaf8565a",
+        "cosine_drift": [
+          0.0,
+          0.021481388724305495,
+          0.017893229121364596,
+          0.015893673959626375,
+          0.01951873480211863
+        ],
+        "repeat_noise": 0.0,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.32804999999999995
+      },
+      {
+        "category": "crazing",
+        "instance_id": 4031,
+        "cache_key": "0fdf1722ab4d776ac3585e727ee69d669bde822b504e1ab65c5b279f5fb3152d",
+        "cosine_drift": [
+          -2.220446049250313e-16,
+          0.05676603418147119,
+          0.07527847607980909,
+          0.022565961794688283,
+          0.021254055958921048
+        ],
+        "repeat_noise": -2.220446049250313e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.6194500000000001
+      },
+      {
+        "category": "crazing",
+        "instance_id": 1683,
+        "cache_key": "37ec32dde0f5f8359a71098f970c360aa903e2e3cc40956869585f5ee981be0a",
+        "cosine_drift": [
+          -8.881784197001252e-16,
+          0.11027285404881715,
+          0.14517738694194282,
+          0.05601982955167539,
+          0.027945397388405402
+        ],
+        "repeat_noise": -8.881784197001252e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.903225
+      },
+      {
+        "category": "inclusion",
+        "instance_id": 371,
+        "cache_key": "2839777c1205ec67b08df103dc3584eb36a0cd2bdf53b0166fdc0bbc493142ee",
+        "cosine_drift": [
+          0.0,
+          0.13118758438963085,
+          0.1592220365588679,
+          0.05189762322098734,
+          0.027027371921662158
+        ],
+        "repeat_noise": 0.0,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.87625
+      },
+      {
+        "category": "inclusion",
+        "instance_id": 1876,
+        "cache_key": "c61da083e28e2875e4286ff483e38d2e8e16fab470c7a3a90802192a3f3428bf",
+        "cosine_drift": [
+          -8.881784197001252e-16,
+          0.05287698016551923,
+          0.10631244751735136,
+          0.058960611848307476,
+          0.04216163198772804
+        ],
+        "repeat_noise": -8.881784197001252e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.876625
+      },
+      {
+        "category": "inclusion",
+        "instance_id": 4072,
+        "cache_key": "47437c042d009f8dee71e45a277c35463342bfba38f30fe2f2b3c0ff8fca115d",
+        "cosine_drift": [
+          -6.661338147750939e-16,
+          0.11587722990547922,
+          0.13835551670849622,
+          0.0545105653248662,
+          0.035799195542033924
+        ],
+        "repeat_noise": -6.661338147750939e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.775
+      },
+      {
+        "category": "inclusion",
+        "instance_id": 3597,
+        "cache_key": "e9e29eb4e522ec91e447864501096f651ec295c038b239a34201d2621371e8bc",
+        "cosine_drift": [
+          -6.661338147750939e-16,
+          0.07170906528669219,
+          0.1567941597509107,
+          0.06827447333164549,
+          0.06522520524208764
+        ],
+        "repeat_noise": -6.661338147750939e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.84
+      },
+      {
+        "category": "inclusion",
+        "instance_id": 3079,
+        "cache_key": "821bf5fdd157d45b2b8b27a1c7c9628fb59b751caea17e4b7e4382298a113868",
+        "cosine_drift": [
+          -2.220446049250313e-16,
+          0.03756638107375676,
+          0.09608781385129961,
+          0.04576460135299221,
+          0.03798452519891393
+        ],
+        "repeat_noise": -2.220446049250313e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.904
+      },
+      {
+        "category": "patches",
+        "instance_id": 2545,
+        "cache_key": "022ce97d129af5aeed57e6debdcc68d8fd2ca66d0c0aff69716d5cb5a264fc28",
+        "cosine_drift": [
+          -1.3322676295501878e-15,
+          0.06830059086574813,
+          0.07658952976572697,
+          0.028198887113269788,
+          0.022028285015419757
+        ],
+        "repeat_noise": -1.3322676295501878e-15,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.7959499999999999
+      },
+      {
+        "category": "patches",
+        "instance_id": 3646,
+        "cache_key": "1bbaf96451d1d66917cdc809827025cca061c1866ce7b9ea9ce1dd4444c3f028",
+        "cosine_drift": [
+          -6.661338147750939e-16,
+          0.09310444587803723,
+          0.130616736824818,
+          0.03439510362361553,
+          0.036667885860966254
+        ],
+        "repeat_noise": -6.661338147750939e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.862825
+      },
+      {
+        "category": "patches",
+        "instance_id": 3026,
+        "cache_key": "a05fbf4e450c7655d6e88b92ebdf682badb832789b556af4d089a1d9778bdb72",
+        "cosine_drift": [
+          0.0,
+          0.04746439354573462,
+          0.06466749800177707,
+          0.023085141264729936,
+          0.023791908407227447
+        ],
+        "repeat_noise": 0.0,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.5582
+      },
+      {
+        "category": "patches",
+        "instance_id": 1927,
+        "cache_key": "f1fbba5fec5915b665718bb9e4ee0b6c919c0ee93c9a77f2ac1e585fe1437520",
+        "cosine_drift": [
+          -4.440892098500626e-16,
+          0.11687295036969747,
+          0.22328373006697144,
+          0.047284884895112844,
+          0.05286680155524692
+        ],
+        "repeat_noise": -4.440892098500626e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.967825
+      },
+      {
+        "category": "patches",
+        "instance_id": 3824,
+        "cache_key": "5fa3c49510981ba327d5e9442c6f1d9d96df9b3d395e98eeb4a400b894c70882",
+        "cosine_drift": [
+          -8.881784197001252e-16,
+          0.15093476020816998,
+          0.20910643274738727,
+          0.11401260208285491,
+          0.04580114191274465
+        ],
+        "repeat_noise": -8.881784197001252e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.933025
+      },
+      {
+        "category": "pitted_surface",
+        "instance_id": 1002,
+        "cache_key": "4539a5301c4e15298b8a522d06f5289cbe6c8d0e88da5fc370443979398f236c",
+        "cosine_drift": [
+          -8.881784197001252e-16,
+          0.035631803843577003,
+          0.055663214527561955,
+          0.041246565508161415,
+          0.019618223676749147
+        ],
+        "repeat_noise": -8.881784197001252e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.592075
+      },
+      {
+        "category": "pitted_surface",
+        "instance_id": 1986,
+        "cache_key": "ea8881fa7a3af90249fe5d33a608cd7a8ce894d43548e4343f0107b035275887",
+        "cosine_drift": [
+          -4.440892098500626e-16,
+          -4.440892098500626e-16,
+          -4.440892098500626e-16,
+          -4.440892098500626e-16,
+          -4.440892098500626e-16
+        ],
+        "repeat_noise": -4.440892098500626e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.0
+      },
+      {
+        "category": "pitted_surface",
+        "instance_id": 725,
+        "cache_key": "6f6d71a4ffd15e0d8edd8f97b3a95f97b2d34e7e4bc43ba2bb8cb92aa9b039d1",
+        "cosine_drift": [
+          -8.881784197001252e-16,
+          0.06050524271724811,
+          0.051066997600474284,
+          0.05441821218804188,
+          0.036671116644865
+        ],
+        "repeat_noise": -8.881784197001252e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.375
+      },
+      {
+        "category": "pitted_surface",
+        "instance_id": 1956,
+        "cache_key": "058d28f4175b040cc0421bbc04962ff1d9424be397cdd0133d95c20910a1ffbd",
+        "cosine_drift": [
+          -1.1102230246251565e-15,
+          0.21998765016421173,
+          0.16297996528786574,
+          0.07071048339878971,
+          0.03277832937925951
+        ],
+        "repeat_noise": -1.1102230246251565e-15,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.973
+      },
+      {
+        "category": "pitted_surface",
+        "instance_id": 3800,
+        "cache_key": "c0cb08a1722de003fabd66f8a98f2d928ad124536e704a26d4abcfcc977f90c8",
+        "cosine_drift": [
+          -4.440892098500626e-16,
+          0.018754390544040267,
+          0.01845225980641485,
+          0.01998466800318277,
+          0.03304466310298371
+        ],
+        "repeat_noise": -4.440892098500626e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.31999999999999995
+      },
+      {
+        "category": "rolled-in_scale",
+        "instance_id": 3931,
+        "cache_key": "3026e1f689ad0caef09e51ede416dcee038bfe97fc06340c8ca7a4f0755303ed",
+        "cosine_drift": [
+          -6.661338147750939e-16,
+          0.0662966267945635,
+          0.10774976753428978,
+          0.03917496577465307,
+          0.026878287098519915
+        ],
+        "repeat_noise": -6.661338147750939e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.8108
+      },
+      {
+        "category": "rolled-in_scale",
+        "instance_id": 3398,
+        "cache_key": "78ed8892608ad3ab87d42fb7f7564477947d7f776c1bad2475cebce90f76f87a",
+        "cosine_drift": [
+          -1.1102230246251565e-15,
+          0.06251487883279572,
+          0.07432731014604221,
+          0.031165123273392603,
+          0.034994325018206984
+        ],
+        "repeat_noise": -1.1102230246251565e-15,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.74
+      },
+      {
+        "category": "rolled-in_scale",
+        "instance_id": 1031,
+        "cache_key": "073b3c56a863cc0a6a876ca3b1289ed070a30a1aa1276a0826fb101e0d04d4dc",
+        "cosine_drift": [
+          -4.440892098500626e-16,
+          0.0319853748435196,
+          0.03877919698239474,
+          0.024421206829674746,
+          0.02408884293192759
+        ],
+        "repeat_noise": -4.440892098500626e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.6525000000000001
+      },
+      {
+        "category": "rolled-in_scale",
+        "instance_id": 2006,
+        "cache_key": "b0c9c1b9335ab12e60f022324b9d3c9858d9978b0c55db8d26336132e1f6cf2f",
+        "cosine_drift": [
+          -8.881784197001252e-16,
+          0.06368427155177503,
+          0.10075669853780866,
+          0.03348145742459707,
+          0.031118576137498244
+        ],
+        "repeat_noise": -8.881784197001252e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.7562
+      },
+      {
+        "category": "rolled-in_scale",
+        "instance_id": 759,
+        "cache_key": "7f578139cfba32a2b58b9d78464884edac3975451bea3bf64e9284761d03a442",
+        "cosine_drift": [
+          -2.220446049250313e-16,
+          0.10047342907674783,
+          0.13267579556856968,
+          0.043171385034938003,
+          0.05210094210008398
+        ],
+        "repeat_noise": -2.220446049250313e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.9139
+      },
+      {
+        "category": "scratches",
+        "instance_id": 3736,
+        "cache_key": "722a616b115287e3e52e47265d789a8053c173ae65ab5901c69a2c7a7bc6f3d2",
+        "cosine_drift": [
+          -8.881784197001252e-16,
+          0.09788582198426576,
+          0.10193462353661908,
+          0.03690535442189036,
+          0.07843935439852734
+        ],
+        "repeat_noise": -8.881784197001252e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.83
+      },
+      {
+        "category": "scratches",
+        "instance_id": 293,
+        "cache_key": "6b5ecd6518cce3a4595530a3c462e49a8a86d7f62402977d680d3739ca1fa59a",
+        "cosine_drift": [
+          -6.661338147750939e-16,
+          0.15683419066876936,
+          0.12118493887777049,
+          0.020669559722599873,
+          0.03866177308853391
+        ],
+        "repeat_noise": -6.661338147750939e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.91585
+      },
+      {
+        "category": "scratches",
+        "instance_id": 3467,
+        "cache_key": "da8eb114570471a9368e821187fe6aa7b05b15ef7aee6c2448c72856eab45207",
+        "cosine_drift": [
+          -1.3322676295501878e-15,
+          0.22170113581432938,
+          0.20755194179511494,
+          0.10714427953059413,
+          0.12933357884169272
+        ],
+        "repeat_noise": -1.3322676295501878e-15,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.905
+      },
+      {
+        "category": "scratches",
+        "instance_id": 1806,
+        "cache_key": "dadac8e5391a2065c493d3a7e6b4746085483179e24a102946a7f99ad3123394",
+        "cosine_drift": [
+          -4.440892098500626e-16,
+          0.07033826589711778,
+          0.17127474596218084,
+          0.08455987256618214,
+          0.060088316024844435
+        ],
+        "repeat_noise": -4.440892098500626e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.93345
+      },
+      {
+        "category": "scratches",
+        "instance_id": 2595,
+        "cache_key": "793224e9fd62f18661f1a2f670f823fbb95802968c892240552db9c08b032e62",
+        "cosine_drift": [
+          -4.440892098500626e-16,
+          0.3370832585415017,
+          0.637046957361936,
+          0.1278774159813838,
+          0.15553314431554555
+        ],
+        "repeat_noise": -4.440892098500626e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.98875
+      }
+    ]
+  },
+  {
+    "shot": 5,
+    "seed": 1,
+    "instances": [
+      {
+        "category": "crazing",
+        "instance_id": 334,
+        "cache_key": "8fda63b7ea777f4b7eb5abe9e52bd58e02eaea7defd3f5f2634e1e9e3612d58a",
+        "cosine_drift": [
+          -4.440892098500626e-16,
+          0.07987275705871022,
+          0.09524155994264727,
+          0.03947440846374284,
+          0.028548427743434912
+        ],
+        "repeat_noise": -4.440892098500626e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.79375
+      },
+      {
+        "category": "crazing",
+        "instance_id": 2442,
+        "cache_key": "eb16bdcef6f56b1b18c569cb688958fa58685a18bc861fb85f8f6ff23ec0c241",
+        "cosine_drift": [
+          -4.440892098500626e-16,
+          0.08185451632966412,
+          0.10410717921302037,
+          0.023270373429395086,
+          0.02332113083706222
+        ],
+        "repeat_noise": -4.440892098500626e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.759575
+      },
+      {
+        "category": "crazing",
+        "instance_id": 3865,
+        "cache_key": "d3befae5bb5decd704fc98e631129a64c0247f873aa47f8e6bd3b071cf562c94",
+        "cosine_drift": [
+          -4.440892098500626e-16,
+          0.04594297081981402,
+          0.06342412733660507,
+          0.027460451520196716,
+          0.023403898064558892
+        ],
+        "repeat_noise": -4.440892098500626e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.795
+      },
+      {
+        "category": "crazing",
+        "instance_id": 3638,
+        "cache_key": "c94f23cea28ce1e6877d063acaf016fd694e6781e45fff31e51efc44935912ab",
+        "cosine_drift": [
+          -4.440892098500626e-16,
+          0.08076110590825547,
+          0.07458829402114686,
+          0.03727294530834668,
+          0.027705119995742655
+        ],
+        "repeat_noise": -4.440892098500626e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.7133499999999999
+      },
+      {
+        "category": "crazing",
+        "instance_id": 3551,
+        "cache_key": "33476ddf3ecced1ae5765db5405d31b607eb5d8de5f8f803f10c724031c2a17c",
+        "cosine_drift": [
+          2.220446049250313e-16,
+          0.0256276156963694,
+          0.026300730108946513,
+          0.018830486362453325,
+          0.01973244661196205
+        ],
+        "repeat_noise": 2.220446049250313e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.505
+      },
+      {
+        "category": "inclusion",
+        "instance_id": 545,
+        "cache_key": "c10f783e25116ac0f0e32c8e0d0988a26e5f5c342320294b635f09dafbac5015",
+        "cosine_drift": [
+          -4.440892098500626e-16,
+          0.04045473486667195,
+          0.04313285562097191,
+          0.04315483619963145,
+          0.04762842537067091
+        ],
+        "repeat_noise": -4.440892098500626e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.655
+      },
+      {
+        "category": "inclusion",
+        "instance_id": 1838,
+        "cache_key": "eb54feb59c76e9f97fffd540e0d6c8e3ab0ef7b7e57bb510ac158379037a8868",
+        "cosine_drift": [
+          -1.1102230246251565e-15,
+          0.0646965793311216,
+          0.09010148646306515,
+          0.04713745382847989,
+          0.030922730264450582
+        ],
+        "repeat_noise": -1.1102230246251565e-15,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.825
+      },
+      {
+        "category": "inclusion",
+        "instance_id": 891,
+        "cache_key": "1f8d0ad9877b0520804d0c77d42db2fdc1c48c2f26cbd33f576a7b7d3d115bb9",
+        "cosine_drift": [
+          -8.881784197001252e-16,
+          0.2775941851589563,
+          0.38915950397763577,
+          0.16086534749302162,
+          0.13462838201824023
+        ],
+        "repeat_noise": -8.881784197001252e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.96955
+      },
+      {
+        "category": "inclusion",
+        "instance_id": 3744,
+        "cache_key": "ce5a39191d04f92d7ff13252176e57af33f256811b629340028eb53d7791b8c1",
+        "cosine_drift": [
+          -6.661338147750939e-16,
+          0.0632301316267474,
+          0.07646818185025217,
+          0.07331237133405488,
+          0.06367908481502338
+        ],
+        "repeat_noise": -6.661338147750939e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.7984
+      },
+      {
+        "category": "inclusion",
+        "instance_id": 3267,
+        "cache_key": "0b9820412133d96153d9e9195df85dcf801e9a60a8a3f5ce131e7525a16b8826",
+        "cosine_drift": [
+          -6.661338147750939e-16,
+          0.24933499116625324,
+          0.4801548273784483,
+          0.1263909608515924,
+          0.07156927737911944
+        ],
+        "repeat_noise": -6.661338147750939e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.96085
+      },
+      {
+        "category": "patches",
+        "instance_id": 3636,
+        "cache_key": "cd326dcfcdb1c6e3afb9b440b7952e2d00222fca371e20cb23000a8d4f8b3672",
+        "cosine_drift": [
+          2.220446049250313e-16,
+          0.16214968510272199,
+          0.23530921864330478,
+          0.046357742266977864,
+          0.02856616176189697
+        ],
+        "repeat_noise": 2.220446049250313e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.95505
+      },
+      {
+        "category": "patches",
+        "instance_id": 3092,
+        "cache_key": "08fe0b87e0f4dd8aa1dddbd0d5c3f6e255d10d708ba2b079a6a97c8e0a3994bc",
+        "cosine_drift": [
+          -2.220446049250313e-16,
+          0.16736307468872824,
+          0.17593987728579963,
+          0.07856639340527205,
+          0.09186330113350749
+        ],
+        "repeat_noise": -2.220446049250313e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.9172
+      },
+      {
+        "category": "patches",
+        "instance_id": 1913,
+        "cache_key": "fab26eb55912b8974a06102afa5579c38e38addb848123afaaf5d245adec0ca6",
+        "cosine_drift": [
+          -4.440892098500626e-16,
+          0.09758671409989106,
+          0.19073513425043087,
+          0.01873885074885262,
+          0.019071702274353397
+        ],
+        "repeat_noise": -4.440892098500626e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.8817
+      },
+      {
+        "category": "patches",
+        "instance_id": 661,
+        "cache_key": "7a62c909ea94333a339164c147979d3c67a16cb5d368ed5f7f8a7fcc0fdef72d",
+        "cosine_drift": [
+          -8.881784197001252e-16,
+          0.060627725633959795,
+          0.0734340492534249,
+          0.02467722975238651,
+          0.028926492370231816
+        ],
+        "repeat_noise": -8.881784197001252e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.6699999999999999
+      },
+      {
+        "category": "patches",
+        "instance_id": 3767,
+        "cache_key": "491a064614662b0c003e809f4d3f157f761303ff1776467cec568b9da40f712e",
+        "cosine_drift": [
+          -4.440892098500626e-16,
+          0.07932723985853962,
+          0.07621500749698018,
+          0.021012971986455242,
+          0.02278995827594199
+        ],
+        "repeat_noise": -4.440892098500626e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.6126
+      },
+      {
+        "category": "pitted_surface",
+        "instance_id": 192,
+        "cache_key": "ebbff8263bbba36e0a5f5af3137712ab3bf08f906139cf182f5146b21dff3679",
+        "cosine_drift": [
+          -1.1102230246251565e-15,
+          0.04011205297070852,
+          0.027689145529791848,
+          0.019116810889127422,
+          0.01659688803384507
+        ],
+        "repeat_noise": -1.1102230246251565e-15,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.350175
+      },
+      {
+        "category": "pitted_surface",
+        "instance_id": 2715,
+        "cache_key": "a99f2f6f949a29a6ce185d0ed03d48277af351bc94cbf6873b6cb41ba0317e35",
+        "cosine_drift": [
+          -4.440892098500626e-16,
+          0.05015038703824071,
+          0.06442455498362065,
+          0.061301690389035324,
+          0.03158206874683933
+        ],
+        "repeat_noise": -4.440892098500626e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.53
+      },
+      {
+        "category": "pitted_surface",
+        "instance_id": 3002,
+        "cache_key": "133069ba8fce967a3912b045d807ea86211d77ed60862473f77598af32923ea0",
+        "cosine_drift": [
+          -4.440892098500626e-16,
+          -4.440892098500626e-16,
+          -4.440892098500626e-16,
+          -4.440892098500626e-16,
+          -4.440892098500626e-16
+        ],
+        "repeat_noise": -4.440892098500626e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.0
+      },
+      {
+        "category": "pitted_surface",
+        "instance_id": 179,
+        "cache_key": "fd1206775ba256d691a7f9de6cf7fe8e491ea14abf3ac1ef2c09c785bc283e28",
+        "cosine_drift": [
+          -8.881784197001252e-16,
+          0.07918144652793724,
+          0.06893652878056578,
+          0.06761265884071965,
+          0.12626556721532634
+        ],
+        "repeat_noise": -8.881784197001252e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.6325000000000001
+      },
+      {
+        "category": "pitted_surface",
+        "instance_id": 3058,
+        "cache_key": "246dd117d9b69bc020fa3031f8fe0b69d5f421cb21b4570c9a8e7d796fb91b28",
+        "cosine_drift": [
+          -6.661338147750939e-16,
+          0.08804918235537684,
+          0.09970473371601685,
+          0.06834996459056641,
+          0.07918880747998136
+        ],
+        "repeat_noise": -6.661338147750939e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.56385
+      },
+      {
+        "category": "rolled-in_scale",
+        "instance_id": 1768,
+        "cache_key": "fb7e14a14bbc9d7b674ac53281d9dca683550276cab85fe60f2a6b003559c424",
+        "cosine_drift": [
+          -1.1102230246251565e-15,
+          0.26658645808034287,
+          0.33258066631293703,
+          0.2075902794319242,
+          0.05863099875885924
+        ],
+        "repeat_noise": -1.1102230246251565e-15,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.9703
+      },
+      {
+        "category": "rolled-in_scale",
+        "instance_id": 4076,
+        "cache_key": "108a80cd7b0c1ab2dfb48ca58fd1c03d0a875305eb8265d467bbb0d68789448e",
+        "cosine_drift": [
+          -6.661338147750939e-16,
+          0.06495965600626152,
+          0.06978356532036212,
+          0.0166856924296378,
+          0.017706664331478383
+        ],
+        "repeat_noise": -6.661338147750939e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.656
+      },
+      {
+        "category": "rolled-in_scale",
+        "instance_id": 1565,
+        "cache_key": "a722d2ba23e8ffa65a632be9b2fb697ec13d8bf489eaf73067c08c2670fd152e",
+        "cosine_drift": [
+          -8.881784197001252e-16,
+          0.1049069057741503,
+          0.15886176500526739,
+          0.06042886767808231,
+          0.030667782777864305
+        ],
+        "repeat_noise": -8.881784197001252e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.7853
+      },
+      {
+        "category": "rolled-in_scale",
+        "instance_id": 3258,
+        "cache_key": "817259ffa5640b3dca19ae4edffbca653c7018cb1ad258910bc380432a29b43b",
+        "cosine_drift": [
+          -8.881784197001252e-16,
+          0.16465565314991304,
+          0.21561541513933036,
+          0.052306139963053444,
+          0.03431571534988753
+        ],
+        "repeat_noise": -8.881784197001252e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.87925
+      },
+      {
+        "category": "rolled-in_scale",
+        "instance_id": 761,
+        "cache_key": "ff3763986bb8525d3abe1780f69625c5f349974ab00012748fb3dd2b55ea3093",
+        "cosine_drift": [
+          -8.881784197001252e-16,
+          0.06360455107269658,
+          0.09744806341987489,
+          0.048554456029759385,
+          0.04812070329386131
+        ],
+        "repeat_noise": -8.881784197001252e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.8668750000000001
+      },
+      {
+        "category": "scratches",
+        "instance_id": 1797,
+        "cache_key": "3ccfc8cddff4bb4e230f15a50d9448a87390d36ff56df3643c3b48d96a2a512f",
+        "cosine_drift": [
+          -8.881784197001252e-16,
+          0.3342038612096303,
+          0.33048287917262575,
+          0.08448048549535225,
+          0.09143698663151278
+        ],
+        "repeat_noise": -8.881784197001252e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.929225
+      },
+      {
+        "category": "scratches",
+        "instance_id": 267,
+        "cache_key": "865b16151c61e382e3d6874435af301eb5689d80b8a101f89977e0d2c934d700",
+        "cosine_drift": [
+          -6.661338147750939e-16,
+          0.21378644612382403,
+          0.16329194578127382,
+          0.053831147990249795,
+          0.043179294763692866
+        ],
+        "repeat_noise": -6.661338147750939e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.844
+      },
+      {
+        "category": "scratches",
+        "instance_id": 260,
+        "cache_key": "ec3482862d816800bdfe4945aad303f64259635919c32a98a63cda2e42752e2d",
+        "cosine_drift": [
+          -2.220446049250313e-16,
+          0.048856001377339475,
+          0.222315064870515,
+          0.023640214126857795,
+          0.0949130620385843
+        ],
+        "repeat_noise": -2.220446049250313e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.937
+      },
+      {
+        "category": "scratches",
+        "instance_id": 262,
+        "cache_key": "a5f4134247cbfbeed61c1da83d0f89874e474ab6603cea3ddeb2a787095cf2dd",
+        "cosine_drift": [
+          -2.220446049250313e-16,
+          0.0558671357489845,
+          0.2587154878839759,
+          0.03787937976086231,
+          0.07705098344492778
+        ],
+        "repeat_noise": -2.220446049250313e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.972375
+      },
+      {
+        "category": "scratches",
+        "instance_id": 3441,
+        "cache_key": "22ce4a2d047d9a7afb704dcb23838dd35c6323abf912badf084aa4b0a8bd42f2",
+        "cosine_drift": [
+          -8.881784197001252e-16,
+          0.1978756173103211,
+          0.32647791423905115,
+          0.10262917986972053,
+          0.027167115583419332
+        ],
+        "repeat_noise": -8.881784197001252e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.9546250000000001
+      }
+    ]
+  },
+  {
+    "shot": 5,
+    "seed": 2,
+    "instances": [
+      {
+        "category": "crazing",
+        "instance_id": 3896,
+        "cache_key": "6565d7a0536d4e4f6cb6d3e924121fd2b4a49cabf1ae0de3630ca8ae1b966f2c",
+        "cosine_drift": [
+          -6.661338147750939e-16,
+          0.09019061191008348,
+          0.10221029885642019,
+          0.04499303388702125,
+          0.0304477274534114
+        ],
+        "repeat_noise": -6.661338147750939e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.7086250000000001
+      },
+      {
+        "category": "crazing",
+        "instance_id": 3866,
+        "cache_key": "9440d8e922ffd1d436110fe29484fb6ed0a4d33f22e6b6df65a4cbf799a733ac",
+        "cosine_drift": [
+          -6.661338147750939e-16,
+          0.07461822324632483,
+          0.10148642865155244,
+          0.03547073225692843,
+          0.03221917889288506
+        ],
+        "repeat_noise": -6.661338147750939e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.7435
+      },
+      {
+        "category": "crazing",
+        "instance_id": 34,
+        "cache_key": "cc31fb2f695328a9917cca286ce1d7a63ef02f2dfd64fdff946d16684512058d",
+        "cosine_drift": [
+          -4.440892098500626e-16,
+          0.06689939437815529,
+          0.07473277512031551,
+          0.052153051914142545,
+          0.038573686648083694
+        ],
+        "repeat_noise": -4.440892098500626e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.8180000000000001
+      },
+      {
+        "category": "crazing",
+        "instance_id": 303,
+        "cache_key": "b5e282390eb853f481cb47261dbdbf5eb839a1b425c7a0d868c62f7d42ee7fc4",
+        "cosine_drift": [
+          -4.440892098500626e-16,
+          0.07957802980981721,
+          0.10163293966434617,
+          0.055845136480771385,
+          0.05585488523265081
+        ],
+        "repeat_noise": -4.440892098500626e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.765525
+      },
+      {
+        "category": "crazing",
+        "instance_id": 52,
+        "cache_key": "d3ea23a45740d129c035b5bea080c47e8ae1ab5b0762666d3f0703c0246d0802",
+        "cosine_drift": [
+          2.220446049250313e-16,
+          0.053940801186254106,
+          0.06967501861499881,
+          0.03142219981068939,
+          0.02412392891571069
+        ],
+        "repeat_noise": 2.220446049250313e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.7115750000000001
+      },
+      {
+        "category": "inclusion",
+        "instance_id": 2739,
+        "cache_key": "6ed77ec99ffdf1ad05ca82ef18c5159b47f9dfdc56eed61c65592ccaad2792d2",
+        "cosine_drift": [
+          -4.440892098500626e-16,
+          0.255922040827982,
+          0.4773816726722475,
+          0.3908391062081039,
+          0.22388273933233926
+        ],
+        "repeat_noise": -4.440892098500626e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.977
+      },
+      {
+        "category": "inclusion",
+        "instance_id": 1153,
+        "cache_key": "106aa9ab4348e2a103c791e28c6111f92595494f5989878c1292345922a6b4e9",
+        "cosine_drift": [
+          -8.881784197001252e-16,
+          0.11060161118394785,
+          0.28502051328142186,
+          0.10427834275080705,
+          0.13274097189591416
+        ],
+        "repeat_noise": -8.881784197001252e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.835
+      },
+      {
+        "category": "inclusion",
+        "instance_id": 2419,
+        "cache_key": "c721322d0502e32fdff07a95a780648105866a2c1fc6b775768a618120059d85",
+        "cosine_drift": [
+          -2.220446049250313e-16,
+          0.07526527799077742,
+          0.10100427224787345,
+          0.05231093177429469,
+          0.03307113299109643
+        ],
+        "repeat_noise": -2.220446049250313e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.725
+      },
+      {
+        "category": "inclusion",
+        "instance_id": 1818,
+        "cache_key": "91f86ac6982c35f9d6b4f4005eed92358007f06d9b3a3b7090017e91da1ef3b5",
+        "cosine_drift": [
+          -2.220446049250313e-16,
+          0.07291785185850075,
+          0.09929823148690053,
+          0.027521801083903563,
+          0.04744423435607026
+        ],
+        "repeat_noise": -2.220446049250313e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.7150000000000001
+      },
+      {
+        "category": "inclusion",
+        "instance_id": 1394,
+        "cache_key": "29a338c5284db3014074befb637d7f49e53083fd4fc65b68c85b53c0cfb87b36",
+        "cosine_drift": [
+          -8.881784197001252e-16,
+          0.25538916486955276,
+          0.4600514508299953,
+          0.25120145675242256,
+          0.1245987175202562
+        ],
+        "repeat_noise": -8.881784197001252e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.9735
+      },
+      {
+        "category": "patches",
+        "instance_id": 155,
+        "cache_key": "31f334b613ca348d674ed2070ee0f42ca11839f56418035ddb167c6c29d29814",
+        "cosine_drift": [
+          -1.7763568394002505e-15,
+          0.12906190664666384,
+          0.13023804833017583,
+          0.07178650101532402,
+          0.06197620018973082
+        ],
+        "repeat_noise": -1.7763568394002505e-15,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.8912
+      },
+      {
+        "category": "patches",
+        "instance_id": 1220,
+        "cache_key": "e73560a7a14302945963ab4f80597a388745b82f87a9327d4a77b61977cb6b3b",
+        "cosine_drift": [
+          -6.661338147750939e-16,
+          0.11784222002774869,
+          0.14581621978848402,
+          0.03303610713293659,
+          0.05022130024952309
+        ],
+        "repeat_noise": -6.661338147750939e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.912
+      },
+      {
+        "category": "patches",
+        "instance_id": 3353,
+        "cache_key": "9a75a753fb6fc04028d8d61a725e32870f66439068e6d9cfd6cd569725f628c0",
+        "cosine_drift": [
+          -8.881784197001252e-16,
+          0.06764546012113315,
+          0.08755286852228361,
+          0.039280310143024355,
+          0.01908249177969612
+        ],
+        "repeat_noise": -8.881784197001252e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.558775
+      },
+      {
+        "category": "patches",
+        "instance_id": 3242,
+        "cache_key": "197619caa21714d2f23c48f59125bc89d28f71caf19940aaaa4e3c0a7b4d678b",
+        "cosine_drift": [
+          0.0,
+          0.1093850745404954,
+          0.06844162759167394,
+          0.026638661882016468,
+          0.01798368779010806
+        ],
+        "repeat_noise": 0.0,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.562125
+      },
+      {
+        "category": "patches",
+        "instance_id": 3873,
+        "cache_key": "7e06cbd0fcadf20461e63650dcd8042918cc015370d79039fba5941e0e70a3a4",
+        "cosine_drift": [
+          -2.220446049250313e-16,
+          0.09575315483772917,
+          0.11116001254082719,
+          0.05173025477489668,
+          0.02120197319058481
+        ],
+        "repeat_noise": -2.220446049250313e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.794025
+      },
+      {
+        "category": "pitted_surface",
+        "instance_id": 2656,
+        "cache_key": "e827991cfd898f105ebd24c83f95cf26b9766542b15033db66bdf7368c2dd91c",
+        "cosine_drift": [
+          -4.440892098500626e-16,
+          0.3378147131892678,
+          0.22866887133397473,
+          0.08467670859630094,
+          0.05840897447573368
+        ],
+        "repeat_noise": -4.440892098500626e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.9621999999999999
+      },
+      {
+        "category": "pitted_surface",
+        "instance_id": 3833,
+        "cache_key": "c974d58ba25d79a8c1a5e9143c0bfd74bfd0898ba9cbd4a32cc3bdd8a3cc079b",
+        "cosine_drift": [
+          -4.440892098500626e-16,
+          0.03281978648712869,
+          0.046966591527177304,
+          0.025827113438106286,
+          0.04861360446274554
+        ],
+        "repeat_noise": -4.440892098500626e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.375
+      },
+      {
+        "category": "pitted_surface",
+        "instance_id": 3057,
+        "cache_key": "748976555a48746416f74935d0c56b2a661106dc65ad4784d4a9234d967a44db",
+        "cosine_drift": [
+          -2.220446049250313e-16,
+          0.07773604249935462,
+          0.09265106812200297,
+          0.0868057650929408,
+          0.07624209017321737
+        ],
+        "repeat_noise": -2.220446049250313e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.645
+      },
+      {
+        "category": "pitted_surface",
+        "instance_id": 3524,
+        "cache_key": "8a33e0e58bf812822f4a9d48485bf57acba33ef629037bb3115d922a990e623c",
+        "cosine_drift": [
+          0.0,
+          0.017277769922709907,
+          0.022405508540394692,
+          0.022326871601101583,
+          0.03310958399943509
+        ],
+        "repeat_noise": 0.0,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.14500000000000002
+      },
+      {
+        "category": "pitted_surface",
+        "instance_id": 1979,
+        "cache_key": "3c498a2d3ddfad2b15ce3cd11f0dfc4523e37d3082d904af31c83099ccfc232a",
+        "cosine_drift": [
+          -6.661338147750939e-16,
+          0.020483099452784592,
+          0.025454154233974235,
+          0.018296003094111946,
+          0.02831960032833103
+        ],
+        "repeat_noise": -6.661338147750939e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.02485000000000004
+      },
+      {
+        "category": "rolled-in_scale",
+        "instance_id": 236,
+        "cache_key": "ecaa7799cfbb88318e33c2d9ae408ea6eef7a68c4ef3bb6d743aa0a65db50ea6",
+        "cosine_drift": [
+          -4.440892098500626e-16,
+          0.06931307498157013,
+          0.18524205701730667,
+          0.04586720121099008,
+          0.03858501462427388
+        ],
+        "repeat_noise": -4.440892098500626e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.903475
+      },
+      {
+        "category": "rolled-in_scale",
+        "instance_id": 230,
+        "cache_key": "f61add1637b412cedfe4f9aa59e0553768661129846965cd7716614d52e1b2b9",
+        "cosine_drift": [
+          -8.881784197001252e-16,
+          0.16813710810504212,
+          0.2627278635549093,
+          0.06641383833773884,
+          0.04223166845797888
+        ],
+        "repeat_noise": -8.881784197001252e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.940875
+      },
+      {
+        "category": "rolled-in_scale",
+        "instance_id": 2293,
+        "cache_key": "99a652b41b54185827390cd972ec0c31755ed87076814e76c20bef60d4caeecf",
+        "cosine_drift": [
+          -2.220446049250313e-16,
+          0.13271406946037057,
+          0.15237532312567414,
+          0.08283251012220949,
+          0.10104004632893016
+        ],
+        "repeat_noise": -2.220446049250313e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.8249
+      },
+      {
+        "category": "rolled-in_scale",
+        "instance_id": 2585,
+        "cache_key": "a93301934a1cd7811911280b403c03626a030726bb4c27382b6f0f9745c0632f",
+        "cosine_drift": [
+          -8.881784197001252e-16,
+          0.10922952229659422,
+          0.19005751194165055,
+          0.08296171901910643,
+          0.021083861175644203
+        ],
+        "repeat_noise": -8.881784197001252e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.8479
+      },
+      {
+        "category": "rolled-in_scale",
+        "instance_id": 2019,
+        "cache_key": "6c9162ff55e177f4dc381d5f68ebd55b20e4983a83b7596b34a310cf4ab077ea",
+        "cosine_drift": [
+          0.0,
+          0.04853094126158952,
+          0.04776055192534423,
+          0.02872494224265809,
+          0.03950617788832411
+        ],
+        "repeat_noise": 0.0,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.74125
+      },
+      {
+        "category": "scratches",
+        "instance_id": 2057,
+        "cache_key": "1ef78c5dc78bdc78652f9d1bfd8716f48d4a478814827f39db26c2a99f328756",
+        "cosine_drift": [
+          -4.440892098500626e-16,
+          0.11222104448517656,
+          0.13975304545684542,
+          0.051809592096215384,
+          0.037703434275735526
+        ],
+        "repeat_noise": -4.440892098500626e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.91
+      },
+      {
+        "category": "scratches",
+        "instance_id": 2350,
+        "cache_key": "2b41fa0a8b77be0ff4d4a1995ffd43ce4e859b17af6a3559accb348330971536",
+        "cosine_drift": [
+          -8.881784197001252e-16,
+          0.1813736428393311,
+          0.41880772972730185,
+          0.11795976415735243,
+          0.08520296322892984
+        ],
+        "repeat_noise": -8.881784197001252e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.961375
+      },
+      {
+        "category": "scratches",
+        "instance_id": 2635,
+        "cache_key": "0767c9b266d23f02305a6118bc1a14535fa08ce308f90431603241dc75140364",
+        "cosine_drift": [
+          0.0,
+          0.11928527243488274,
+          0.1224753994659612,
+          0.08816421977220679,
+          0.07709765159215198
+        ],
+        "repeat_noise": 0.0,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.88
+      },
+      {
+        "category": "scratches",
+        "instance_id": 800,
+        "cache_key": "3f0471d41fd19196646ae1aabfd0818cc04f0504de21f2dee261156c449a6cad",
+        "cosine_drift": [
+          -1.1102230246251565e-15,
+          0.14396182954490544,
+          0.20573698929874118,
+          0.08974066927542146,
+          0.10366485668241276
+        ],
+        "repeat_noise": -1.1102230246251565e-15,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.8
+      },
+      {
+        "category": "scratches",
+        "instance_id": 2888,
+        "cache_key": "c31a2b6d2938c259f1a2e28191b63f5fb7d93d22e51663b8a1d9f814cafc9ac4",
+        "cosine_drift": [
+          0.0,
+          0.05521871983318838,
+          0.05988980107285102,
+          0.02296172452719869,
+          0.0362878098724293
+        ],
+        "repeat_noise": 0.0,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.795
+      }
+    ]
+  },
+  {
+    "shot": 1,
+    "seed": 0,
+    "instances": [
+      {
+        "category": "crazing",
+        "instance_id": 3864,
+        "cache_key": "82396e6c52e552f17bbac9c2d4f60ae4a99b59e4d07cad4172c44f36696ea0d7",
+        "cosine_drift": [
+          -1.1102230246251565e-15,
+          0.0631775076853216,
+          0.06987380474948968,
+          0.026618356365942786,
+          0.018822648850460144
+        ],
+        "repeat_noise": -1.1102230246251565e-15,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.7294
+      },
+      {
+        "category": "inclusion",
+        "instance_id": 2815,
+        "cache_key": "4e7666a217ce633e21070cd884ff72d4e83e4c5dd02ff181356f4e3a79300d43",
+        "cosine_drift": [
+          -6.661338147750939e-16,
+          0.41399266537288293,
+          0.28833494496798606,
+          0.13164062362497186,
+          0.08664598016105485
+        ],
+        "repeat_noise": -6.661338147750939e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.945625
+      },
+      {
+        "category": "patches",
+        "instance_id": 3337,
+        "cache_key": "c9e21e73f22008b1dd711c643a58eda499af03cf20389c0f7f8151c450bf5d06",
+        "cosine_drift": [
+          3.3306690738754696e-16,
+          0.21595434591437324,
+          0.28999220919618407,
+          0.08589488785429122,
+          0.08662583110221123
+        ],
+        "repeat_noise": 3.3306690738754696e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.8716
+      },
+      {
+        "category": "pitted_surface",
+        "instance_id": 203,
+        "cache_key": "2f92e6fdf76aa66757b3191d577a5b7f55f74c2e56872e58d352c6c7be6b444c",
+        "cosine_drift": [
+          0.0,
+          0.020227595634684792,
+          0.029258680167030926,
+          0.0189632868974845,
+          0.039673023467669655
+        ],
+        "repeat_noise": 0.0,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.41500000000000004
+      },
+      {
+        "category": "rolled-in_scale",
+        "instance_id": 1764,
+        "cache_key": "6fe387aef5e7adc916ee3bcd3948c2ce1a153ec737f7ae61d358ecbcffd65c00",
+        "cosine_drift": [
+          -1.1102230246251565e-15,
+          0.05196053286066327,
+          0.047553047860801945,
+          0.028558138505649477,
+          0.02107272302171581
+        ],
+        "repeat_noise": -1.1102230246251565e-15,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.34750000000000003
+      },
+      {
+        "category": "scratches",
+        "instance_id": 2621,
+        "cache_key": "14bfe05d8cd95cdc304d7b210a3925ca9e3e7478c4361f9b5101385bbb3b16d6",
+        "cosine_drift": [
+          -4.440892098500626e-16,
+          0.04608192417034773,
+          0.1240319830244534,
+          0.05341999656048391,
+          0.031842653834082135
+        ],
+        "repeat_noise": -4.440892098500626e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.80115
+      }
+    ]
+  },
+  {
+    "shot": 1,
+    "seed": 1,
+    "instances": [
+      {
+        "category": "crazing",
+        "instance_id": 334,
+        "cache_key": "8fda63b7ea777f4b7eb5abe9e52bd58e02eaea7defd3f5f2634e1e9e3612d58a",
+        "cosine_drift": [
+          -4.440892098500626e-16,
+          0.07987275705871022,
+          0.09524155994264727,
+          0.03947440846374284,
+          0.028548427743434912
+        ],
+        "repeat_noise": -4.440892098500626e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.79375
+      },
+      {
+        "category": "inclusion",
+        "instance_id": 545,
+        "cache_key": "c10f783e25116ac0f0e32c8e0d0988a26e5f5c342320294b635f09dafbac5015",
+        "cosine_drift": [
+          -4.440892098500626e-16,
+          0.04045473486667195,
+          0.04313285562097191,
+          0.04315483619963145,
+          0.04762842537067091
+        ],
+        "repeat_noise": -4.440892098500626e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.655
+      },
+      {
+        "category": "patches",
+        "instance_id": 2246,
+        "cache_key": "e5c837bd711435e79860f92889d0114674732ae5a0a8a9f72b57c80cff3c64c2",
+        "cosine_drift": [
+          0.0,
+          0.21193187823229398,
+          0.3037317271358473,
+          0.10384944163508625,
+          0.0961259944393551
+        ],
+        "repeat_noise": 0.0,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.9566
+      },
+      {
+        "category": "pitted_surface",
+        "instance_id": 984,
+        "cache_key": "fa18970900763996486386b71533d6abaca6e02372a189c1dbebbfda4da3bcc2",
+        "cosine_drift": [
+          -6.661338147750939e-16,
+          0.09994640110476005,
+          0.10991504453769396,
+          0.06436390549264381,
+          0.03554027892780631
+        ],
+        "repeat_noise": -6.661338147750939e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.91
+      },
+      {
+        "category": "rolled-in_scale",
+        "instance_id": 2849,
+        "cache_key": "b348995e11da198d1f71a6653ee302e215b03fa1aa7371de17f69490eb804226",
+        "cosine_drift": [
+          0.0,
+          0.07560535187241524,
+          0.08366418694717426,
+          0.05497714858948477,
+          0.026571531955704275
+        ],
+        "repeat_noise": 0.0,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.806875
+      },
+      {
+        "category": "scratches",
+        "instance_id": 3952,
+        "cache_key": "8096b8788ee932c1cbe2b71a6c82fbd56cb2eea0a789598fce9b31ddc3ab10d6",
+        "cosine_drift": [
+          -4.440892098500626e-16,
+          0.40562811795350795,
+          0.38478353789300224,
+          0.07265206802941404,
+          0.09470302859185797
+        ],
+        "repeat_noise": -4.440892098500626e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.95725
+      }
+    ]
+  },
+  {
+    "shot": 1,
+    "seed": 2,
+    "instances": [
+      {
+        "category": "crazing",
+        "instance_id": 3896,
+        "cache_key": "6565d7a0536d4e4f6cb6d3e924121fd2b4a49cabf1ae0de3630ca8ae1b966f2c",
+        "cosine_drift": [
+          -6.661338147750939e-16,
+          0.09019061191008348,
+          0.10221029885642019,
+          0.04499303388702125,
+          0.0304477274534114
+        ],
+        "repeat_noise": -6.661338147750939e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.7086250000000001
+      },
+      {
+        "category": "inclusion",
+        "instance_id": 395,
+        "cache_key": "195841307f84830b444e6832f1acd2273a0cda39ee6260854635b1656cffd35c",
+        "cosine_drift": [
+          -6.661338147750939e-16,
+          0.2461423493300785,
+          0.3319109893986357,
+          0.14217744156595657,
+          0.09840496921417241
+        ],
+        "repeat_noise": -6.661338147750939e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.96665
+      },
+      {
+        "category": "patches",
+        "instance_id": 658,
+        "cache_key": "293d47bcaba66db0e1f4b7773ce0afbffec545fbb04af66550271837debc0e11",
+        "cosine_drift": [
+          0.0,
+          0.09796811342505385,
+          0.14807343401052586,
+          0.08059713795690682,
+          0.06386272284656025
+        ],
+        "repeat_noise": 0.0,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.6779999999999999
+      },
+      {
+        "category": "pitted_surface",
+        "instance_id": 713,
+        "cache_key": "4788e275546e9baf7d483307fe68570b790d283c441953b38ef80312be9e1c32",
+        "cosine_drift": [
+          -6.661338147750939e-16,
+          0.05461759273873523,
+          0.07471854961784696,
+          0.03874869619227406,
+          0.02716037156568951
+        ],
+        "repeat_noise": -6.661338147750939e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.697775
+      },
+      {
+        "category": "rolled-in_scale",
+        "instance_id": 2288,
+        "cache_key": "aa755e633173ddf1848469bcc08c3b5e65768d65c574b8ba60d59154cc129e6d",
+        "cosine_drift": [
+          -1.1102230246251565e-15,
+          0.13697741949310127,
+          0.18026558827060657,
+          0.08338372535855731,
+          0.03900620965832824
+        ],
+        "repeat_noise": -1.1102230246251565e-15,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.9388
+      },
+      {
+        "category": "scratches",
+        "instance_id": 802,
+        "cache_key": "fa37d4d87c8fe6a82a87d4d95fdae8981869891360db548ed71e7f24b618ef97",
+        "cosine_drift": [
+          -4.440892098500626e-16,
+          0.28137165279379184,
+          0.40082536093547017,
+          0.12587392003869569,
+          0.0819275101249144
+        ],
+        "repeat_noise": -4.440892098500626e-16,
+        "target_input_max_delta_by_view": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "perturbable_fraction": 0.925,
+        "interpolation_guard_pixels": 1
+      }
+    ]
+  }
+]

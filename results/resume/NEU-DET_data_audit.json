@@ -1,0 +1,22 @@
+{
+  "train": {
+    "images": 1440,
+    "instances": 3355,
+    "dimensions_mismatch": [],
+    "invalid_declared_boxes": [],
+    "exact_duplicate_groups": [
+      [
+        "patches_105.jpg",
+        "patches_101.jpg"
+      ]
+    ]
+  },
+  "test": {
+    "images": 360,
+    "instances": 834,
+    "dimensions_mismatch": [],
+    "invalid_declared_boxes": [],
+    "exact_duplicate_groups": []
+  },
+  "cross_split_duplicate_files": []
+}
